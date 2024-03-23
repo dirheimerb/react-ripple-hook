@@ -1,4 +1,4 @@
-**react-ripple-hook** • Readme \| [API](./docs/globals.md)
+**react-ripple-hook** • Readme \| [API](globals.md)
 
 ***
 

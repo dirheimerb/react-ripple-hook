@@ -7,6 +7,5 @@ export default defineConfig((options) => ({
     external: ['react'],
     experimentalDts: true,
     metafile: true,
-    globalName: 'exsui',
     ...options,
 }));
