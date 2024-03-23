@@ -1,23 +1,28 @@
 'use client';
-import { useEffect } from 'react';
+import { CSSProperties, useEffect, useState } from 'react';
 
 export interface UseRippleEffectProps {
     elementRef: React.RefObject<HTMLElement>;
+    rippleStyle?: CSSProperties;
 }
 /**
  * @description This hook creates a ripple effect on the element that is clicked
  * @param {UseRippleEffectProps} elementRef
+ * @pram {CSSProperties} rippleStyle
  * @returns {void}
  * @example
  * const buttonRef = useRef<HTMLButtonElement>(null);
  * useRipple({ elementRef: buttonRef });
  */
-export function useRipple({ elementRef }: UseRippleEffectProps): void {
+export function useRipple({
+    elementRef,
+    rippleStyle = { backgroundColor: 'rgba(0, 0, 0, 0.1)' },
+}: UseRippleEffectProps): void {
+    const [rippleStyles] = useState<CSSProperties>(rippleStyle);
+
     useEffect(() => {
         const elem = elementRef.current;
-        const rippleStyles = {
-            color: 'rgba(0, 0, 0, 0.1)',
-        };
+
         const rippleEffect = (event: MouseEvent) => {
             const target = event.target as HTMLElement;
             const rect = target.getBoundingClientRect();
@@ -31,7 +36,7 @@ export function useRipple({ elementRef }: UseRippleEffectProps): void {
             const radius = maxDistCorner; // Use the distance to the furthest corner as the radius
             const element = document.createElement('div');
             element.classList.add('ripple');
-            element.style.backgroundColor = rippleStyles.color;
+            element.style.backgroundColor = rippleStyles.backgroundColor!;
             element.style.borderRadius = '50%';
             element.style.pointerEvents = 'none';
             element.style.position = 'absolute';
@@ -56,5 +61,5 @@ export function useRipple({ elementRef }: UseRippleEffectProps): void {
         return () => {
             elem?.removeEventListener('click', rippleEffect);
         };
-    }, [elementRef]);
+    }, [elementRef, rippleStyles.backgroundColor]);
 }

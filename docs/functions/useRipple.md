@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../README.md) \| [API](../globals.md)
 
-***
+---
 
 [react-ripple-hook](../README.md) / useRipple
 
@@ -20,6 +20,10 @@
 
 This hook creates a ripple effect on the element that is clicked
 
+## Pram
+
+rippleStyle
+
 ## Example
 
 ```ts
@@ -29,4 +33,4 @@ useRipple({ elementRef: buttonRef });
 
 ## Source
 
-[src/use-ripple.ts:15](https://github.com/dirheimerb/react-ripple-hook/blob/c9dc1fb/src/use-ripple.ts#L15)
+[src/use-ripple.ts:17](https://github.com/dirheimerb/react-ripple-hook/blob/50231d3/src/use-ripple.ts#L17)

@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../README.md) \| [API](../globals.md)
 
-***
+---
 
 [react-ripple-hook](../README.md) / UseRippleEffectProps
 
@@ -14,4 +14,14 @@
 
 #### Source
 
-[src/use-ripple.ts:5](https://github.com/dirheimerb/react-ripple-hook/blob/c9dc1fb/src/use-ripple.ts#L5)
+[src/use-ripple.ts:5](https://github.com/dirheimerb/react-ripple-hook/blob/50231d3/src/use-ripple.ts#L5)
+
+---
+
+### rippleStyle?
+
+> **`optional`** **rippleStyle**: [`CSSProperties`](../-internal-/interfaces/CSSProperties.md)
+
+#### Source
+
+[src/use-ripple.ts:6](https://github.com/dirheimerb/react-ripple-hook/blob/50231d3/src/use-ripple.ts#L6)
