@@ -1,0 +1,55 @@
+{
+    "name": "react-ripple-hook",
+    "version": "0.0.1",
+    "description": "A simple react hook for creating ripple effects",
+    "main": "index.ts",
+    "module": "index.ts",
+    "types": "index.d.ts",
+    "source": "index.ts",
+    "exports": {
+        ".": "./src/index.ts"
+    },
+    "scripts": {
+        "build": "tsup",
+        "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist",
+        "docs": "typedoc --out docs index.ts",
+        "lint": "eslint . --ext .ts,.tsx",
+        "format": "prettier --write ."
+    },
+    "keywords": [
+        "react",
+        "hook",
+        "ripple",
+        "effect",
+        "animation"
+    ],
+    "author": "Bradley Dirheimer",
+    "license": "MIT",
+    "devDependencies": {
+        "@microsoft/api-extractor": "^7.42.3",
+        "@swc/core": "^1.4.8",
+        "@types/node": "^20.11.30",
+        "@types/react": "^18.2.69",
+        "@typescript-eslint/eslint-plugin": "^7.1.1",
+        "@typescript-eslint/parser": "^7.1.1",
+        "eslint": "^8.57.0",
+        "eslint-plugin-react-hooks": "^4.6.0",
+        "eslint-plugin-react-refresh": "^0.4.5",
+        "prettier": "^3.2.5",
+        "ts-node": "^10.9.2",
+        "tsup": "^8.0.2",
+        "typedoc": "^0.25.12",
+        "typescript": "^5.4.3"
+    },
+    "prettier": {
+        "singleQuote": true,
+        "trailingComma": "all",
+        "arrowParens": "always",
+        "printWidth": 120,
+        "useTabs": false,
+        "tabWidth": 4,
+        "bracketSameLine": true,
+        "semi": true,
+        "singleAttributePerLine": true
+    }
+}
