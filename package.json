@@ -1,6 +1,6 @@
 {
     "name": "react-ripple-hook",
-    "version": "0.0.3",
+    "version": "0.0.1",
     "description": "A simple react hook for creating ripple effects",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
@@ -10,6 +10,16 @@
         ".": "./dist/index.js",
         "./dist/index.mjs": "./dist/index.mjs",
         "./dist/index.d.ts": "./dist/index.d.ts"
+    },
+    "files": [
+        "dist"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dirheimerb/react-ripple-hook.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dirheimerb/react-ripple-hook/issues"
     },
     "scripts": {
         "build": "tsup",

@@ -1,0 +1,11 @@
+.eslintrc
+tsconfig.json
+jest.config.js
+typedoc.json
+docs
+coverage
+.vscode
+.tsup
+.gitignore
+tsup.config.ts
+.tsbuildinfo
