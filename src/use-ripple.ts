@@ -14,7 +14,7 @@ export interface UseRippleEffectProps {
  * const buttonRef = useRef<HTMLButtonElement>(null);
  * useRipple({ elementRef: buttonRef });
  */
-export function useRipple({
+export default function useRipple({
     elementRef,
     rippleStyle = { backgroundColor: 'rgba(0, 0, 0, 0.1)' },
 }: UseRippleEffectProps): void {

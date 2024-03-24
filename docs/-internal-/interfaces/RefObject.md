@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../../README.md) \| [API](../../globals.md)
 
----
+***
 
 [react-ripple-hook](../../README.md) / [\<internal\>](../README.md) / RefObject
 
@@ -34,4 +34,4 @@ The current value of the ref.
 
 #### Source
 
-node_modules/.pnpm/@types+react@18.2.69/node_modules/@types/react/index.d.ts:155
+node\_modules/.pnpm/@types+react@18.2.69/node\_modules/@types/react/index.d.ts:155

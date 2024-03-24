@@ -1,13 +1,13 @@
 {
     "name": "react-ripple-hook",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "A simple react hook for creating ripple effects",
     "main": "index.ts",
     "module": "index.ts",
-    "types": "index.d.ts",
+    "types": ".tsup/declaration/use-ripple.d.ts",
     "source": "index.ts",
     "exports": {
-        ".": "./src/index.ts"
+        ".": "./dist/index.js"
     },
     "scripts": {
         "build": "tsup",

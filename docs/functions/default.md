@@ -1,12 +1,12 @@
 **react-ripple-hook** • [Readme](../README.md) \| [API](../globals.md)
 
----
+***
 
-[react-ripple-hook](../README.md) / useRipple
+[react-ripple-hook](../README.md) / default
 
-# Function: useRipple()
+# Function: default()
 
-> **useRipple**(`elementRef`): `void`
+> **default**(`elementRef`): `void`
 
 ## Parameters
 
@@ -33,4 +33,4 @@ useRipple({ elementRef: buttonRef });
 
 ## Source
 
-[src/use-ripple.ts:17](https://github.com/dirheimerb/react-ripple-hook/blob/50231d3/src/use-ripple.ts#L17)
+[src/use-ripple.ts:17](https://github.com/dirheimerb/react-ripple-hook/blob/6e4675e/src/use-ripple.ts#L17)

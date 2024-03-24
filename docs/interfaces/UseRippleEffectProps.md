@@ -14,7 +14,7 @@
 
 #### Source
 
-[src/use-ripple.ts:5](https://github.com/dirheimerb/react-ripple-hook/blob/50231d3/src/use-ripple.ts#L5)
+[src/use-ripple.ts:5](https://github.com/dirheimerb/react-ripple-hook/blob/6e4675e/src/use-ripple.ts#L5)
 
 ---
 
@@ -24,4 +24,4 @@
 
 #### Source
 
-[src/use-ripple.ts:6](https://github.com/dirheimerb/react-ripple-hook/blob/50231d3/src/use-ripple.ts#L6)
+[src/use-ripple.ts:6](https://github.com/dirheimerb/react-ripple-hook/blob/6e4675e/src/use-ripple.ts#L6)

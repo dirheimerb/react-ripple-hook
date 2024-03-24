@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../../README.md) \| [API](../../globals.md)
 
----
+***
 
 [react-ripple-hook](../../README.md) / [\<internal\>](../README.md) / ObsoleteProperties
 
@@ -8,7 +8,7 @@
 
 ## Extended by
 
--   [`Properties`](Properties.md)
+- [`Properties`](Properties.md)
 
 ## Type parameters
 
@@ -32,9 +32,9 @@ The **`box-align`** CSS property specifies how an element aligns its contents ac
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8289
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8289
 
----
+***
 
 ### ~~KhtmlBoxDirection?~~
 
@@ -50,9 +50,9 @@ The **`box-direction`** CSS property specifies whether a box lays out its conten
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8299
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8299
 
----
+***
 
 ### ~~KhtmlBoxFlex?~~
 
@@ -68,9 +68,9 @@ The **`-moz-box-flex`** and **`-webkit-box-flex`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8309
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8309
 
----
+***
 
 ### ~~KhtmlBoxFlexGroup?~~
 
@@ -86,9 +86,9 @@ The **`box-flex-group`** CSS property assigns the flexbox's child elements to a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8319
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8319
 
----
+***
 
 ### ~~KhtmlBoxLines?~~
 
@@ -104,9 +104,9 @@ The **`box-lines`** CSS property determines whether the box may have a single or
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8329
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8329
 
----
+***
 
 ### ~~KhtmlBoxOrdinalGroup?~~
 
@@ -122,9 +122,9 @@ The **`box-ordinal-group`** CSS property assigns the flexbox's child elements to
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8339
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8339
 
----
+***
 
 ### ~~KhtmlBoxOrient?~~
 
@@ -140,9 +140,9 @@ The **`box-orient`** CSS property sets whether an element lays out its contents 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8349
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8349
 
----
+***
 
 ### ~~KhtmlBoxPack?~~
 
@@ -158,9 +158,9 @@ The **`-moz-box-pack`** and **`-webkit-box-pack`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8359
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8359
 
----
+***
 
 ### ~~KhtmlLineBreak?~~
 
@@ -176,9 +176,9 @@ The **`line-break`** CSS property sets how to break lines of Chinese, Japanese, 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8369
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8369
 
----
+***
 
 ### ~~KhtmlOpacity?~~
 
@@ -194,9 +194,9 @@ The **`opacity`** CSS property sets the opacity of an element. Opacity is the de
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8379
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8379
 
----
+***
 
 ### ~~KhtmlUserSelect?~~
 
@@ -212,9 +212,9 @@ The **`user-select`** CSS property controls whether the user can select text. Th
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8389
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8389
 
----
+***
 
 ### ~~MozBackfaceVisibility?~~
 
@@ -230,9 +230,9 @@ The **`backface-visibility`** CSS property sets whether the back face of an elem
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8399
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8399
 
----
+***
 
 ### ~~MozBackgroundClip?~~
 
@@ -248,9 +248,9 @@ The **`background-clip`** CSS property sets whether an element's background exte
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8409
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8409
 
----
+***
 
 ### ~~MozBackgroundInlinePolicy?~~
 
@@ -266,9 +266,9 @@ The **`box-decoration-break`** CSS property specifies how an element's fragments
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8419
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8419
 
----
+***
 
 ### ~~MozBackgroundOrigin?~~
 
@@ -284,9 +284,9 @@ The **`background-origin`** CSS property sets the background's origin: from the 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8429
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8429
 
----
+***
 
 ### ~~MozBackgroundSize?~~
 
@@ -302,9 +302,9 @@ The **`background-size`** CSS property sets the size of the element's background
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8439
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8439
 
----
+***
 
 ### ~~MozBorderRadius?~~
 
@@ -318,9 +318,9 @@ The **`border-radius`** CSS property rounds the corners of an element's outer bo
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8447
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8447
 
----
+***
 
 ### ~~MozBorderRadiusBottomleft?~~
 
@@ -336,9 +336,9 @@ The **`border-bottom-left-radius`** CSS property rounds the bottom-left corner o
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8457
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8457
 
----
+***
 
 ### ~~MozBorderRadiusBottomright?~~
 
@@ -354,9 +354,9 @@ The **`border-bottom-right-radius`** CSS property rounds the bottom-right corner
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8467
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8467
 
----
+***
 
 ### ~~MozBorderRadiusTopleft?~~
 
@@ -372,9 +372,9 @@ The **`border-top-left-radius`** CSS property rounds the top-left corner of an e
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8477
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8477
 
----
+***
 
 ### ~~MozBorderRadiusTopright?~~
 
@@ -390,9 +390,9 @@ The **`border-top-right-radius`** CSS property rounds the top-right corner of an
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8487
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8487
 
----
+***
 
 ### ~~MozBoxAlign?~~
 
@@ -408,9 +408,9 @@ The **`box-align`** CSS property specifies how an element aligns its contents ac
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8497
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8497
 
----
+***
 
 ### ~~MozBoxDirection?~~
 
@@ -426,9 +426,9 @@ The **`box-direction`** CSS property specifies whether a box lays out its conten
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8507
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8507
 
----
+***
 
 ### ~~MozBoxFlex?~~
 
@@ -444,9 +444,9 @@ The **`-moz-box-flex`** and **`-webkit-box-flex`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8517
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8517
 
----
+***
 
 ### ~~MozBoxOrdinalGroup?~~
 
@@ -462,9 +462,9 @@ The **`box-ordinal-group`** CSS property assigns the flexbox's child elements to
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8527
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8527
 
----
+***
 
 ### ~~MozBoxOrient?~~
 
@@ -480,9 +480,9 @@ The **`box-orient`** CSS property sets whether an element lays out its contents 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8537
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8537
 
----
+***
 
 ### ~~MozBoxPack?~~
 
@@ -498,9 +498,9 @@ The **`-moz-box-pack`** and **`-webkit-box-pack`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8547
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8547
 
----
+***
 
 ### ~~MozBoxShadow?~~
 
@@ -516,9 +516,9 @@ The **`box-shadow`** CSS property adds shadow effects around an element's frame.
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8557
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8557
 
----
+***
 
 ### ~~MozFloatEdge?~~
 
@@ -534,9 +534,9 @@ The non-standard **`-moz-float-edge`** CSS property specifies whether the height
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8567
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8567
 
----
+***
 
 ### ~~MozForceBrokenImageIcon?~~
 
@@ -552,9 +552,9 @@ The **`-moz-force-broken-image-icon`** extended CSS property can be used to forc
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8577
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8577
 
----
+***
 
 ### ~~MozOpacity?~~
 
@@ -570,9 +570,9 @@ The **`opacity`** CSS property sets the opacity of an element. Opacity is the de
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8587
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8587
 
----
+***
 
 ### ~~MozOutline?~~
 
@@ -586,9 +586,9 @@ The **`outline`** CSS shorthand property sets most of the outline properties in 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8595
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8595
 
----
+***
 
 ### ~~MozOutlineColor?~~
 
@@ -604,9 +604,9 @@ The **`outline-color`** CSS property sets the color of an element's outline.
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8605
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8605
 
----
+***
 
 ### ~~MozOutlineStyle?~~
 
@@ -622,9 +622,9 @@ The **`outline-style`** CSS property sets the style of an element's outline. An 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8615
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8615
 
----
+***
 
 ### ~~MozOutlineWidth?~~
 
@@ -640,9 +640,9 @@ The CSS **`outline-width`** property sets the thickness of an element's outline.
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8625
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8625
 
----
+***
 
 ### ~~MozPerspective?~~
 
@@ -658,9 +658,9 @@ The **`perspective`** CSS property determines the distance between the z=0 plane
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8635
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8635
 
----
+***
 
 ### ~~MozPerspectiveOrigin?~~
 
@@ -676,9 +676,9 @@ The **`perspective-origin`** CSS property determines the position at which the v
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8645
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8645
 
----
+***
 
 ### ~~MozTextAlignLast?~~
 
@@ -694,9 +694,9 @@ The **`text-align-last`** CSS property sets how the last line of a block or a li
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8655
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8655
 
----
+***
 
 ### ~~MozTextDecorationColor?~~
 
@@ -712,9 +712,9 @@ The **`text-decoration-color`** CSS property sets the color of decorations added
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8665
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8665
 
----
+***
 
 ### ~~MozTextDecorationLine?~~
 
@@ -730,9 +730,9 @@ The **`text-decoration-line`** CSS property sets the kind of decoration that is 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8675
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8675
 
----
+***
 
 ### ~~MozTextDecorationStyle?~~
 
@@ -748,9 +748,9 @@ The **`text-decoration-style`** CSS property sets the style of the lines specifi
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8685
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8685
 
----
+***
 
 ### ~~MozTransform?~~
 
@@ -766,9 +766,9 @@ The **`transform`** CSS property lets you rotate, scale, skew, or translate an e
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8695
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8695
 
----
+***
 
 ### ~~MozTransformOrigin?~~
 
@@ -784,9 +784,9 @@ The **`transform-origin`** CSS property sets the origin for an element's transfo
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8705
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8705
 
----
+***
 
 ### ~~MozTransformStyle?~~
 
@@ -802,9 +802,9 @@ The **`transform-style`** CSS property sets whether children of an element are p
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8715
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8715
 
----
+***
 
 ### ~~MozTransition?~~
 
@@ -818,9 +818,9 @@ The **`transition`** CSS property is a shorthand property for `transition-proper
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8723
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8723
 
----
+***
 
 ### ~~MozTransitionDelay?~~
 
@@ -836,9 +836,9 @@ The **`transition-delay`** CSS property specifies the duration to wait before st
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8733
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8733
 
----
+***
 
 ### ~~MozTransitionDuration?~~
 
@@ -854,9 +854,9 @@ The **`transition-duration`** CSS property sets the length of time a transition 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8743
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8743
 
----
+***
 
 ### ~~MozTransitionProperty?~~
 
@@ -872,9 +872,9 @@ The **`transition-property`** CSS property sets the CSS properties to which a tr
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8753
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8753
 
----
+***
 
 ### ~~MozTransitionTimingFunction?~~
 
@@ -890,9 +890,9 @@ The **`transition-timing-function`** CSS property sets how intermediate values a
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8763
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8763
 
----
+***
 
 ### ~~MozUserInput?~~
 
@@ -908,9 +908,9 @@ In Mozilla applications, **`-moz-user-input`** determines if an element will acc
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8773
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8773
 
----
+***
 
 ### ~~OAnimation?~~
 
@@ -924,9 +924,9 @@ The **`animation`** shorthand CSS property applies an animation between styles. 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8791
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8791
 
----
+***
 
 ### ~~OAnimationDelay?~~
 
@@ -942,9 +942,9 @@ The **`animation-delay`** CSS property specifies the amount of time to wait from
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8801
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8801
 
----
+***
 
 ### ~~OAnimationDirection?~~
 
@@ -960,9 +960,9 @@ The **`animation-direction`** CSS property sets whether an animation should play
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8811
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8811
 
----
+***
 
 ### ~~OAnimationDuration?~~
 
@@ -978,9 +978,9 @@ The **`animation-duration`** CSS property sets the length of time that an animat
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8821
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8821
 
----
+***
 
 ### ~~OAnimationFillMode?~~
 
@@ -996,9 +996,9 @@ The **`animation-fill-mode`** CSS property sets how a CSS animation applies styl
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8831
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8831
 
----
+***
 
 ### ~~OAnimationIterationCount?~~
 
@@ -1014,9 +1014,9 @@ The **`animation-iteration-count`** CSS property sets the number of times an ani
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8841
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8841
 
----
+***
 
 ### ~~OAnimationName?~~
 
@@ -1032,9 +1032,9 @@ The **`animation-name`** CSS property specifies the names of one or more `@keyfr
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8851
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8851
 
----
+***
 
 ### ~~OAnimationPlayState?~~
 
@@ -1050,9 +1050,9 @@ The **`animation-play-state`** CSS property sets whether an animation is running
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8861
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8861
 
----
+***
 
 ### ~~OAnimationTimingFunction?~~
 
@@ -1068,9 +1068,9 @@ The **`animation-timing-function`** CSS property sets how an animation progresse
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8871
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8871
 
----
+***
 
 ### ~~OBackgroundSize?~~
 
@@ -1086,9 +1086,9 @@ The **`background-size`** CSS property sets the size of the element's background
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8881
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8881
 
----
+***
 
 ### ~~OBorderImage?~~
 
@@ -1102,9 +1102,9 @@ The **`border-image`** CSS property draws an image around a given element. It re
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8889
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8889
 
----
+***
 
 ### ~~OObjectFit?~~
 
@@ -1120,9 +1120,9 @@ The **`object-fit`** CSS property sets how the content of a replaced element, su
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8899
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8899
 
----
+***
 
 ### ~~OObjectPosition?~~
 
@@ -1138,9 +1138,9 @@ The **`object-position`** CSS property specifies the alignment of the selected r
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8909
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8909
 
----
+***
 
 ### ~~OTabSize?~~
 
@@ -1156,9 +1156,9 @@ The **`tab-size`** CSS property is used to customize the width of tab characters
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8919
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8919
 
----
+***
 
 ### ~~OTextOverflow?~~
 
@@ -1174,9 +1174,9 @@ The **`text-overflow`** CSS property sets how hidden overflow content is signale
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8929
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8929
 
----
+***
 
 ### ~~OTransform?~~
 
@@ -1192,9 +1192,9 @@ The **`transform`** CSS property lets you rotate, scale, skew, or translate an e
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8939
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8939
 
----
+***
 
 ### ~~OTransformOrigin?~~
 
@@ -1210,9 +1210,9 @@ The **`transform-origin`** CSS property sets the origin for an element's transfo
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8949
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8949
 
----
+***
 
 ### ~~OTransition?~~
 
@@ -1226,9 +1226,9 @@ The **`transition`** CSS property is a shorthand property for `transition-proper
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8957
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8957
 
----
+***
 
 ### ~~OTransitionDelay?~~
 
@@ -1244,9 +1244,9 @@ The **`transition-delay`** CSS property specifies the duration to wait before st
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8967
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8967
 
----
+***
 
 ### ~~OTransitionDuration?~~
 
@@ -1262,9 +1262,9 @@ The **`transition-duration`** CSS property sets the length of time a transition 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8977
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8977
 
----
+***
 
 ### ~~OTransitionProperty?~~
 
@@ -1280,9 +1280,9 @@ The **`transition-property`** CSS property sets the CSS properties to which a tr
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8987
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8987
 
----
+***
 
 ### ~~OTransitionTimingFunction?~~
 
@@ -1298,9 +1298,9 @@ The **`transition-timing-function`** CSS property sets how intermediate values a
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8997
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8997
 
----
+***
 
 ### ~~WebkitBoxAlign?~~
 
@@ -1316,9 +1316,9 @@ The **`box-align`** CSS property specifies how an element aligns its contents ac
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9007
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9007
 
----
+***
 
 ### ~~WebkitBoxDirection?~~
 
@@ -1334,9 +1334,9 @@ The **`box-direction`** CSS property specifies whether a box lays out its conten
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9017
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9017
 
----
+***
 
 ### ~~WebkitBoxFlex?~~
 
@@ -1352,9 +1352,9 @@ The **`-moz-box-flex`** and **`-webkit-box-flex`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9027
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9027
 
----
+***
 
 ### ~~WebkitBoxFlexGroup?~~
 
@@ -1370,9 +1370,9 @@ The **`box-flex-group`** CSS property assigns the flexbox's child elements to a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9037
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9037
 
----
+***
 
 ### ~~WebkitBoxLines?~~
 
@@ -1388,9 +1388,9 @@ The **`box-lines`** CSS property determines whether the box may have a single or
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9047
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9047
 
----
+***
 
 ### ~~WebkitBoxOrdinalGroup?~~
 
@@ -1406,9 +1406,9 @@ The **`box-ordinal-group`** CSS property assigns the flexbox's child elements to
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9057
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9057
 
----
+***
 
 ### ~~WebkitBoxOrient?~~
 
@@ -1424,9 +1424,9 @@ The **`box-orient`** CSS property sets whether an element lays out its contents 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9067
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9067
 
----
+***
 
 ### ~~WebkitBoxPack?~~
 
@@ -1442,9 +1442,9 @@ The **`-moz-box-pack`** and **`-webkit-box-pack`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9077
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9077
 
----
+***
 
 ### ~~azimuth?~~
 
@@ -1460,9 +1460,9 @@ In combination with `elevation`, the **`azimuth`** CSS property enables differen
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8035
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8035
 
----
+***
 
 ### ~~boxAlign?~~
 
@@ -1478,9 +1478,9 @@ The **`box-align`** CSS property specifies how an element aligns its contents ac
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8045
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8045
 
----
+***
 
 ### ~~boxDirection?~~
 
@@ -1496,9 +1496,9 @@ The **`box-direction`** CSS property specifies whether a box lays out its conten
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8055
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8055
 
----
+***
 
 ### ~~boxFlex?~~
 
@@ -1514,9 +1514,9 @@ The **`-moz-box-flex`** and **`-webkit-box-flex`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8065
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8065
 
----
+***
 
 ### ~~boxFlexGroup?~~
 
@@ -1532,9 +1532,9 @@ The **`box-flex-group`** CSS property assigns the flexbox's child elements to a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8075
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8075
 
----
+***
 
 ### ~~boxLines?~~
 
@@ -1550,9 +1550,9 @@ The **`box-lines`** CSS property determines whether the box may have a single or
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8085
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8085
 
----
+***
 
 ### ~~boxOrdinalGroup?~~
 
@@ -1568,9 +1568,9 @@ The **`box-ordinal-group`** CSS property assigns the flexbox's child elements to
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8095
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8095
 
----
+***
 
 ### ~~boxOrient?~~
 
@@ -1586,9 +1586,9 @@ The **`box-orient`** CSS property sets whether an element lays out its contents 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8105
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8105
 
----
+***
 
 ### ~~boxPack?~~
 
@@ -1604,9 +1604,9 @@ The **`-moz-box-pack`** and **`-webkit-box-pack`** CSS properties specify how a 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8115
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8115
 
----
+***
 
 ### ~~clip?~~
 
@@ -1622,9 +1622,9 @@ The **`clip`** CSS property defines a visible portion of an element. The `clip` 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8125
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8125
 
----
+***
 
 ### ~~gridColumnGap?~~
 
@@ -1640,9 +1640,9 @@ The **`column-gap`** CSS property sets the size of the gap (gutter) between an e
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8135
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8135
 
----
+***
 
 ### ~~gridGap?~~
 
@@ -1656,9 +1656,9 @@ The **`gap`** CSS property sets the gaps (gutters) between rows and columns. It 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8143
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8143
 
----
+***
 
 ### ~~gridRowGap?~~
 
@@ -1674,9 +1674,9 @@ The **`row-gap`** CSS property sets the size of the gap (gutter) between an elem
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8153
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8153
 
----
+***
 
 ### ~~imeMode?~~
 
@@ -1692,9 +1692,9 @@ The **`ime-mode`** CSS property controls the state of the input method editor (I
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8163
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8163
 
----
+***
 
 ### ~~msImeMode?~~
 
@@ -1710,9 +1710,9 @@ The **`ime-mode`** CSS property controls the state of the input method editor (I
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8783
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8783
 
----
+***
 
 ### ~~offsetBlock?~~
 
@@ -1726,9 +1726,9 @@ The **`inset-block`** CSS property defines the logical block start and end offse
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8171
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8171
 
----
+***
 
 ### ~~offsetBlockEnd?~~
 
@@ -1744,9 +1744,9 @@ The **`inset-block-end`** CSS property defines the logical block end offset of a
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8181
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8181
 
----
+***
 
 ### ~~offsetBlockStart?~~
 
@@ -1762,9 +1762,9 @@ The **`inset-block-start`** CSS property defines the logical block start offset 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8191
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8191
 
----
+***
 
 ### ~~offsetInline?~~
 
@@ -1778,9 +1778,9 @@ The **`inset-inline`** CSS property defines the logical start and end offsets of
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8199
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8199
 
----
+***
 
 ### ~~offsetInlineEnd?~~
 
@@ -1796,9 +1796,9 @@ The **`inset-inline-end`** CSS property defines the logical inline end inset of 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8209
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8209
 
----
+***
 
 ### ~~offsetInlineStart?~~
 
@@ -1814,9 +1814,9 @@ The **`inset-inline-start`** CSS property defines the logical inline start inset
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8219
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8219
 
----
+***
 
 ### ~~scrollSnapCoordinate?~~
 
@@ -1832,9 +1832,9 @@ The **`scroll-snap-coordinate`** CSS property defines the x and y coordinate pos
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8229
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8229
 
----
+***
 
 ### ~~scrollSnapDestination?~~
 
@@ -1850,9 +1850,9 @@ The **`scroll-snap-destination`** CSS property defines the position in x and y c
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8239
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8239
 
----
+***
 
 ### ~~scrollSnapPointsX?~~
 
@@ -1868,9 +1868,9 @@ The **`scroll-snap-points-x`** CSS property defines the horizontal positioning o
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8249
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8249
 
----
+***
 
 ### ~~scrollSnapPointsY?~~
 
@@ -1886,9 +1886,9 @@ The **`scroll-snap-points-y`** CSS property defines the vertical positioning of 
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8259
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8259
 
----
+***
 
 ### ~~scrollSnapTypeX?~~
 
@@ -1904,9 +1904,9 @@ The **`scroll-snap-type-x`** CSS property defines how strictly snap points are e
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8269
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8269
 
----
+***
 
 ### ~~scrollSnapTypeY?~~
 
@@ -1922,4 +1922,4 @@ The **`scroll-snap-type-y`** CSS property defines how strictly snap points are e
 
 #### Source
 
-node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8279
+node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8279
