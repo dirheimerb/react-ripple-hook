@@ -2,7 +2,15 @@
 import { CSSProperties, useEffect, useState } from 'react';
 
 export interface UseRippleEffectProps {
+    /**
+     * @description The reference to the element that will have the ripple effect
+     * @type {React.RefObject<HTMLElement>}
+     */
     elementRef: React.RefObject<HTMLElement>;
+    /**
+     * @description The CSS properties for the ripple effect
+     * @type {CSSProperties}
+     */
     rippleStyle?: CSSProperties;
 }
 /**
@@ -12,9 +20,9 @@ export interface UseRippleEffectProps {
  * @returns {void}
  * @example
  * const buttonRef = useRef<HTMLButtonElement>(null);
- * useRipple({ elementRef: buttonRef });
+ * useRipple({ elementRef: buttonRef, rippleStyle: { backgroundColor: 'rgba(0, 0, 0, 0.1)' } });
  */
-export default function useRipple({
+export function useRipple({
     elementRef,
     rippleStyle = { backgroundColor: 'rgba(0, 0, 0, 0.1)' },
 }: UseRippleEffectProps): void {

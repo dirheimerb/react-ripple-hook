@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../../README.md) \| [API](../../globals.md)
 
-***
+---
 
 [react-ripple-hook](../../README.md) / [\<internal\>](../README.md) / VendorProperties
 
@@ -8,7 +8,7 @@
 
 ## Extends
 
-- [`VendorLonghandProperties`](VendorLonghandProperties.md)\<`TLength`, `TTime`\>.[`VendorShorthandProperties`](VendorShorthandProperties.md)\<`TLength`, `TTime`\>
+-   [`VendorLonghandProperties`](VendorLonghandProperties.md)\<`TLength`, `TTime`\>.[`VendorShorthandProperties`](VendorShorthandProperties.md)\<`TLength`, `TTime`\>
 
 ## Type parameters
 
@@ -32,9 +32,9 @@ The **`animation`** shorthand CSS property applies an animation between styles. 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7876
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7876
 
-***
+---
 
 ### MozAnimationDelay?
 
@@ -52,9 +52,9 @@ The **`animation-delay`** CSS property specifies the amount of time to wait from
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6123
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6123
 
-***
+---
 
 ### MozAnimationDirection?
 
@@ -72,9 +72,9 @@ The **`animation-direction`** CSS property sets whether an animation should play
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6131
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6131
 
-***
+---
 
 ### MozAnimationDuration?
 
@@ -92,9 +92,9 @@ The **`animation-duration`** CSS property sets the length of time that an animat
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6139
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6139
 
-***
+---
 
 ### MozAnimationFillMode?
 
@@ -112,9 +112,9 @@ The **`animation-fill-mode`** CSS property sets how a CSS animation applies styl
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6147
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6147
 
-***
+---
 
 ### MozAnimationIterationCount?
 
@@ -132,9 +132,9 @@ The **`animation-iteration-count`** CSS property sets the number of times an ani
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6155
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6155
 
-***
+---
 
 ### MozAnimationName?
 
@@ -152,9 +152,9 @@ The **`animation-name`** CSS property specifies the names of one or more `@keyfr
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6163
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6163
 
-***
+---
 
 ### MozAnimationPlayState?
 
@@ -172,9 +172,9 @@ The **`animation-play-state`** CSS property sets whether an animation is running
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6171
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6171
 
-***
+---
 
 ### MozAnimationTimingFunction?
 
@@ -192,9 +192,9 @@ The **`animation-timing-function`** CSS property sets how an animation progresse
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6179
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6179
 
-***
+---
 
 ### MozAppearance?
 
@@ -212,9 +212,9 @@ The **`appearance`** CSS property is used to control native appearance of UI con
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6187
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6187
 
-***
+---
 
 ### MozBinding?
 
@@ -232,9 +232,9 @@ The **`-moz-binding`** CSS property is used by Mozilla-based applications to att
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6195
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6195
 
-***
+---
 
 ### MozBorderBottomColors?
 
@@ -252,9 +252,9 @@ In Mozilla applications like Firefox, the **`-moz-border-bottom-colors`** CSS pr
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6203
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6203
 
-***
+---
 
 ### MozBorderEndColor?
 
@@ -272,9 +272,9 @@ The **`border-inline-end-color`** CSS property defines the color of the logical 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6211
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6211
 
-***
+---
 
 ### MozBorderEndStyle?
 
@@ -292,9 +292,9 @@ The **`border-inline-end-style`** CSS property defines the style of the logical 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6219
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6219
 
-***
+---
 
 ### MozBorderEndWidth?
 
@@ -312,9 +312,9 @@ The **`border-inline-end-width`** CSS property defines the width of the logical 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6227
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6227
 
-***
+---
 
 ### MozBorderImage?
 
@@ -330,9 +330,9 @@ The **`border-image`** CSS property draws an image around a given element. It re
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7882
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7882
 
-***
+---
 
 ### MozBorderLeftColors?
 
@@ -350,9 +350,9 @@ In Mozilla applications like Firefox, the **`-moz-border-left-colors`** CSS prop
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6235
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6235
 
-***
+---
 
 ### MozBorderRightColors?
 
@@ -370,9 +370,9 @@ In Mozilla applications like Firefox, the **`-moz-border-right-colors`** CSS pro
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6243
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6243
 
-***
+---
 
 ### MozBorderStartColor?
 
@@ -390,9 +390,9 @@ The **`border-inline-start-color`** CSS property defines the color of the logica
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6251
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6251
 
-***
+---
 
 ### MozBorderStartStyle?
 
@@ -410,9 +410,9 @@ The **`border-inline-start-style`** CSS property defines the style of the logica
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6259
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6259
 
-***
+---
 
 ### MozBorderTopColors?
 
@@ -430,9 +430,9 @@ In Mozilla applications like Firefox, the **`-moz-border-top-colors`** CSS prope
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6267
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6267
 
-***
+---
 
 ### MozBoxSizing?
 
@@ -450,9 +450,9 @@ The **`box-sizing`** CSS property sets how the total width and height of an elem
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6275
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6275
 
-***
+---
 
 ### MozColumnCount?
 
@@ -470,9 +470,9 @@ The **`column-count`** CSS property breaks an element's content into the specifi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6283
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6283
 
-***
+---
 
 ### MozColumnFill?
 
@@ -490,9 +490,9 @@ The **`column-fill`** CSS property controls how an element's contents are balanc
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6291
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6291
 
-***
+---
 
 ### MozColumnRule?
 
@@ -508,9 +508,9 @@ The **`column-rule`** shorthand CSS property sets the width, style, and color of
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7888
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7888
 
-***
+---
 
 ### MozColumnRuleColor?
 
@@ -528,9 +528,9 @@ The **`column-rule-color`** CSS property sets the color of the line drawn betwee
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6299
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6299
 
-***
+---
 
 ### MozColumnRuleStyle?
 
@@ -548,9 +548,9 @@ The **`column-rule-style`** CSS property sets the style of the line drawn betwee
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6307
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6307
 
-***
+---
 
 ### MozColumnRuleWidth?
 
@@ -568,9 +568,9 @@ The **`column-rule-width`** CSS property sets the width of the line drawn betwee
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6315
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6315
 
-***
+---
 
 ### MozColumnWidth?
 
@@ -588,9 +588,9 @@ The **`column-width`** CSS property sets the ideal column width in a multi-colum
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6323
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6323
 
-***
+---
 
 ### MozColumns?
 
@@ -606,9 +606,9 @@ The **`columns`** CSS shorthand property sets the number of columns to use when 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7894
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7894
 
-***
+---
 
 ### MozContextProperties?
 
@@ -626,9 +626,9 @@ The **`-moz-context-properties`** property can be used within privileged context
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6331
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6331
 
-***
+---
 
 ### MozFontFeatureSettings?
 
@@ -646,9 +646,9 @@ The **`font-feature-settings`** CSS property controls advanced typographic featu
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6339
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6339
 
-***
+---
 
 ### MozFontLanguageOverride?
 
@@ -666,9 +666,9 @@ The **`font-language-override`** CSS property controls the use of language-speci
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6347
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6347
 
-***
+---
 
 ### MozHyphens?
 
@@ -686,9 +686,9 @@ The **`hyphens`** CSS property specifies how words should be hyphenated when tex
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6355
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6355
 
-***
+---
 
 ### MozImageRegion?
 
@@ -706,9 +706,9 @@ For certain XUL elements and pseudo-elements that use an image from the `list-st
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6363
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6363
 
-***
+---
 
 ### MozMarginEnd?
 
@@ -726,9 +726,9 @@ The **`margin-inline-end`** CSS property defines the logical inline end margin o
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6371
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6371
 
-***
+---
 
 ### MozMarginStart?
 
@@ -746,9 +746,9 @@ The **`margin-inline-start`** CSS property defines the logical inline start marg
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6379
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6379
 
-***
+---
 
 ### MozOrient?
 
@@ -766,9 +766,9 @@ The **`-moz-orient`** CSS property specifies the orientation of the element to w
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6387
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6387
 
-***
+---
 
 ### MozOsxFontSmoothing?
 
@@ -786,9 +786,9 @@ The **`font-smooth`** CSS property controls the application of anti-aliasing whe
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6395
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6395
 
-***
+---
 
 ### MozOutlineRadius?
 
@@ -804,9 +804,9 @@ In Mozilla applications like Firefox, the **`-moz-outline-radius`** CSS shorthan
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7900
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7900
 
-***
+---
 
 ### MozOutlineRadiusBottomleft?
 
@@ -824,9 +824,9 @@ In Mozilla applications, the **`-moz-outline-radius-bottomleft`** CSS property c
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6403
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6403
 
-***
+---
 
 ### MozOutlineRadiusBottomright?
 
@@ -844,9 +844,9 @@ In Mozilla applications, the **`-moz-outline-radius-bottomright`** CSS property 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6411
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6411
 
-***
+---
 
 ### MozOutlineRadiusTopleft?
 
@@ -864,9 +864,9 @@ In Mozilla applications, the **`-moz-outline-radius-topleft`** CSS property can 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6419
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6419
 
-***
+---
 
 ### MozOutlineRadiusTopright?
 
@@ -884,9 +884,9 @@ In Mozilla applications, the **`-moz-outline-radius-topright`** CSS property can
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6427
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6427
 
-***
+---
 
 ### MozPaddingEnd?
 
@@ -904,9 +904,9 @@ The **`padding-inline-end`** CSS property defines the logical inline end padding
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6435
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6435
 
-***
+---
 
 ### MozPaddingStart?
 
@@ -924,9 +924,9 @@ The **`padding-inline-start`** CSS property defines the logical inline start pad
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6443
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6443
 
-***
+---
 
 ### MozStackSizing?
 
@@ -944,9 +944,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6443
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6451
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6451
 
-***
+---
 
 ### MozTabSize?
 
@@ -964,9 +964,9 @@ The **`tab-size`** CSS property is used to customize the width of tab characters
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6459
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6459
 
-***
+---
 
 ### MozTextBlink?
 
@@ -984,9 +984,9 @@ The **`-moz-text-blink`** non-standard Mozilla CSS extension specifies the blink
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6467
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6467
 
-***
+---
 
 ### MozTextSizeAdjust?
 
@@ -1004,9 +1004,9 @@ The **`text-size-adjust`** CSS property controls the text inflation algorithm us
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6475
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6475
 
-***
+---
 
 ### MozUserFocus?
 
@@ -1024,9 +1024,9 @@ The **`-moz-user-focus`** CSS property is used to indicate whether an element ca
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6483
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6483
 
-***
+---
 
 ### MozUserModify?
 
@@ -1044,9 +1044,9 @@ The **`user-modify`** property has no effect in Firefox. It was originally plann
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6491
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6491
 
-***
+---
 
 ### MozUserSelect?
 
@@ -1064,9 +1064,9 @@ The **`user-select`** CSS property controls whether the user can select text. Th
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6499
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6499
 
-***
+---
 
 ### MozWindowDragging?
 
@@ -1084,9 +1084,9 @@ The **`-moz-window-dragging`** CSS property specifies whether a window is dragga
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6507
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6507
 
-***
+---
 
 ### MozWindowShadow?
 
@@ -1104,9 +1104,9 @@ The **`-moz-window-shadow`** CSS property specifies whether a window will have a
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6515
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6515
 
-***
+---
 
 ### WebkitAlignContent?
 
@@ -1124,9 +1124,9 @@ The CSS **`align-content`** property sets the distribution of space between and 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7011
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7011
 
-***
+---
 
 ### WebkitAlignItems?
 
@@ -1144,9 +1144,9 @@ The CSS **`align-items`** property sets the `align-self` value on all direct chi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7019
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7019
 
-***
+---
 
 ### WebkitAlignSelf?
 
@@ -1164,9 +1164,9 @@ The **`align-self`** CSS property overrides a grid or flex item's `align-items` 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7027
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7027
 
-***
+---
 
 ### WebkitAnimation?
 
@@ -1182,9 +1182,9 @@ The **`animation`** shorthand CSS property applies an animation between styles. 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7948
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7948
 
-***
+---
 
 ### WebkitAnimationDelay?
 
@@ -1202,9 +1202,9 @@ The **`animation-delay`** CSS property specifies the amount of time to wait from
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7035
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7035
 
-***
+---
 
 ### WebkitAnimationDirection?
 
@@ -1222,9 +1222,9 @@ The **`animation-direction`** CSS property sets whether an animation should play
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7043
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7043
 
-***
+---
 
 ### WebkitAnimationDuration?
 
@@ -1242,9 +1242,9 @@ The **`animation-duration`** CSS property sets the length of time that an animat
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7051
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7051
 
-***
+---
 
 ### WebkitAnimationFillMode?
 
@@ -1262,9 +1262,9 @@ The **`animation-fill-mode`** CSS property sets how a CSS animation applies styl
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7059
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7059
 
-***
+---
 
 ### WebkitAnimationIterationCount?
 
@@ -1282,9 +1282,9 @@ The **`animation-iteration-count`** CSS property sets the number of times an ani
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7067
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7067
 
-***
+---
 
 ### WebkitAnimationName?
 
@@ -1302,9 +1302,9 @@ The **`animation-name`** CSS property specifies the names of one or more `@keyfr
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7075
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7075
 
-***
+---
 
 ### WebkitAnimationPlayState?
 
@@ -1322,9 +1322,9 @@ The **`animation-play-state`** CSS property sets whether an animation is running
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7083
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7083
 
-***
+---
 
 ### WebkitAnimationTimingFunction?
 
@@ -1342,9 +1342,9 @@ The **`animation-timing-function`** CSS property sets how an animation progresse
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7091
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7091
 
-***
+---
 
 ### WebkitAppearance?
 
@@ -1362,9 +1362,9 @@ The **`appearance`** CSS property is used to control native appearance of UI con
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7099
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7099
 
-***
+---
 
 ### WebkitBackdropFilter?
 
@@ -1382,9 +1382,9 @@ The **`backdrop-filter`** CSS property lets you apply graphical effects such as 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7107
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7107
 
-***
+---
 
 ### WebkitBackfaceVisibility?
 
@@ -1402,9 +1402,9 @@ The **`backface-visibility`** CSS property sets whether the back face of an elem
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7115
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7115
 
-***
+---
 
 ### WebkitBackgroundClip?
 
@@ -1422,9 +1422,9 @@ The **`background-clip`** CSS property sets whether an element's background exte
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7123
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7123
 
-***
+---
 
 ### WebkitBackgroundOrigin?
 
@@ -1442,9 +1442,9 @@ The **`background-origin`** CSS property sets the background's origin: from the 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7131
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7131
 
-***
+---
 
 ### WebkitBackgroundSize?
 
@@ -1462,9 +1462,9 @@ The **`background-size`** CSS property sets the size of the element's background
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7139
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7139
 
-***
+---
 
 ### WebkitBorderBefore?
 
@@ -1480,9 +1480,9 @@ The **`-webkit-border-before`** CSS property is a shorthand property for setting
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7954
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7954
 
-***
+---
 
 ### WebkitBorderBeforeColor?
 
@@ -1498,9 +1498,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7954
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7145
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7145
 
-***
+---
 
 ### WebkitBorderBeforeStyle?
 
@@ -1516,9 +1516,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7145
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7151
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7151
 
-***
+---
 
 ### WebkitBorderBeforeWidth?
 
@@ -1534,9 +1534,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7151
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7157
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7157
 
-***
+---
 
 ### WebkitBorderBottomLeftRadius?
 
@@ -1554,9 +1554,9 @@ The **`border-bottom-left-radius`** CSS property rounds the bottom-left corner o
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7165
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7165
 
-***
+---
 
 ### WebkitBorderBottomRightRadius?
 
@@ -1574,9 +1574,9 @@ The **`border-bottom-right-radius`** CSS property rounds the bottom-right corner
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7173
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7173
 
-***
+---
 
 ### WebkitBorderImage?
 
@@ -1592,9 +1592,9 @@ The **`border-image`** CSS property draws an image around a given element. It re
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7960
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7960
 
-***
+---
 
 ### WebkitBorderImageSlice?
 
@@ -1612,9 +1612,9 @@ The **`border-image-slice`** CSS property divides the image specified by `border
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7181
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7181
 
-***
+---
 
 ### WebkitBorderRadius?
 
@@ -1630,9 +1630,9 @@ The **`border-radius`** CSS property rounds the corners of an element's outer bo
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7966
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7966
 
-***
+---
 
 ### WebkitBorderTopLeftRadius?
 
@@ -1650,9 +1650,9 @@ The **`border-top-left-radius`** CSS property rounds the top-left corner of an e
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7189
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7189
 
-***
+---
 
 ### WebkitBorderTopRightRadius?
 
@@ -1670,9 +1670,9 @@ The **`border-top-right-radius`** CSS property rounds the top-right corner of an
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7197
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7197
 
-***
+---
 
 ### WebkitBoxDecorationBreak?
 
@@ -1690,9 +1690,9 @@ The **`box-decoration-break`** CSS property specifies how an element's fragments
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7205
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7205
 
-***
+---
 
 ### WebkitBoxReflect?
 
@@ -1710,9 +1710,9 @@ The **`-webkit-box-reflect`** CSS property lets you reflect the content of an el
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7213
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7213
 
-***
+---
 
 ### WebkitBoxShadow?
 
@@ -1730,9 +1730,9 @@ The **`box-shadow`** CSS property adds shadow effects around an element's frame.
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7221
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7221
 
-***
+---
 
 ### WebkitBoxSizing?
 
@@ -1750,9 +1750,9 @@ The **`box-sizing`** CSS property sets how the total width and height of an elem
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7229
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7229
 
-***
+---
 
 ### WebkitClipPath?
 
@@ -1770,9 +1770,9 @@ The **`clip-path`** CSS property creates a clipping region that sets what part o
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7237
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7237
 
-***
+---
 
 ### WebkitColumnCount?
 
@@ -1790,9 +1790,9 @@ The **`column-count`** CSS property breaks an element's content into the specifi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7245
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7245
 
-***
+---
 
 ### WebkitColumnFill?
 
@@ -1810,9 +1810,9 @@ The **`column-fill`** CSS property controls how an element's contents are balanc
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7253
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7253
 
-***
+---
 
 ### WebkitColumnRule?
 
@@ -1828,9 +1828,9 @@ The **`column-rule`** shorthand CSS property sets the width, style, and color of
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7972
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7972
 
-***
+---
 
 ### WebkitColumnRuleColor?
 
@@ -1848,9 +1848,9 @@ The **`column-rule-color`** CSS property sets the color of the line drawn betwee
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7261
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7261
 
-***
+---
 
 ### WebkitColumnRuleStyle?
 
@@ -1868,9 +1868,9 @@ The **`column-rule-style`** CSS property sets the style of the line drawn betwee
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7269
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7269
 
-***
+---
 
 ### WebkitColumnRuleWidth?
 
@@ -1888,9 +1888,9 @@ The **`column-rule-width`** CSS property sets the width of the line drawn betwee
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7277
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7277
 
-***
+---
 
 ### WebkitColumnSpan?
 
@@ -1908,9 +1908,9 @@ The **`column-span`** CSS property makes it possible for an element to span acro
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7285
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7285
 
-***
+---
 
 ### WebkitColumnWidth?
 
@@ -1928,9 +1928,9 @@ The **`column-width`** CSS property sets the ideal column width in a multi-colum
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7293
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7293
 
-***
+---
 
 ### WebkitColumns?
 
@@ -1946,9 +1946,9 @@ The **`columns`** CSS shorthand property sets the number of columns to use when 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7978
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7978
 
-***
+---
 
 ### WebkitFilter?
 
@@ -1966,9 +1966,9 @@ The **`filter`** CSS property applies graphical effects like blur or color shift
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7301
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7301
 
-***
+---
 
 ### WebkitFlex?
 
@@ -1984,9 +1984,9 @@ The **`flex`** CSS shorthand property sets how a flex _item_ will grow or shrink
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7984
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7984
 
-***
+---
 
 ### WebkitFlexBasis?
 
@@ -2004,9 +2004,9 @@ The **`flex-basis`** CSS property sets the initial main size of a flex item. It 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7309
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7309
 
-***
+---
 
 ### WebkitFlexDirection?
 
@@ -2024,9 +2024,9 @@ The **`flex-direction`** CSS property sets how flex items are placed in the flex
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7317
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7317
 
-***
+---
 
 ### WebkitFlexFlow?
 
@@ -2042,9 +2042,9 @@ The **`flex-flow`** CSS shorthand property specifies the direction of a flex con
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7990
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7990
 
-***
+---
 
 ### WebkitFlexGrow?
 
@@ -2062,9 +2062,9 @@ The **`flex-grow`** CSS property sets the flex grow factor of a flex item's main
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7325
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7325
 
-***
+---
 
 ### WebkitFlexShrink?
 
@@ -2082,9 +2082,9 @@ The **`flex-shrink`** CSS property sets the flex shrink factor of a flex item. I
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7333
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7333
 
-***
+---
 
 ### WebkitFlexWrap?
 
@@ -2102,9 +2102,9 @@ The **`flex-wrap`** CSS property sets whether flex items are forced onto one lin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7341
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7341
 
-***
+---
 
 ### WebkitFontFeatureSettings?
 
@@ -2122,9 +2122,9 @@ The **`font-feature-settings`** CSS property controls advanced typographic featu
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7349
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7349
 
-***
+---
 
 ### WebkitFontKerning?
 
@@ -2142,9 +2142,9 @@ The **`font-kerning`** CSS property sets the use of the kerning information stor
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7357
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7357
 
-***
+---
 
 ### WebkitFontSmoothing?
 
@@ -2162,9 +2162,9 @@ The **`font-smooth`** CSS property controls the application of anti-aliasing whe
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7365
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7365
 
-***
+---
 
 ### WebkitFontVariantLigatures?
 
@@ -2182,9 +2182,9 @@ The **`font-variant-ligatures`** CSS property controls which ligatures and conte
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7373
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7373
 
-***
+---
 
 ### WebkitHyphenateCharacter?
 
@@ -2202,9 +2202,9 @@ The **`hyphenate-character`** CSS property sets the character (or string) used a
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7381
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7381
 
-***
+---
 
 ### WebkitHyphens?
 
@@ -2222,9 +2222,9 @@ The **`hyphens`** CSS property specifies how words should be hyphenated when tex
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7389
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7389
 
-***
+---
 
 ### WebkitInitialLetter?
 
@@ -2242,9 +2242,9 @@ The `initial-letter` CSS property sets styling for dropped, raised, and sunken i
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7397
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7397
 
-***
+---
 
 ### WebkitJustifyContent?
 
@@ -2262,9 +2262,9 @@ The CSS **`justify-content`** property defines how the browser distributes space
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7405
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7405
 
-***
+---
 
 ### WebkitLineBreak?
 
@@ -2282,9 +2282,9 @@ The **`line-break`** CSS property sets how to break lines of Chinese, Japanese, 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7413
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7413
 
-***
+---
 
 ### WebkitLineClamp?
 
@@ -2302,9 +2302,9 @@ The **`-webkit-line-clamp`** CSS property allows limiting of the contents of a b
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7421
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7421
 
-***
+---
 
 ### WebkitMarginEnd?
 
@@ -2322,9 +2322,9 @@ The **`margin-inline-end`** CSS property defines the logical inline end margin o
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7429
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7429
 
-***
+---
 
 ### WebkitMarginStart?
 
@@ -2342,9 +2342,9 @@ The **`margin-inline-start`** CSS property defines the logical inline start marg
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7437
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7437
 
-***
+---
 
 ### WebkitMask?
 
@@ -2360,9 +2360,9 @@ The **`mask`** CSS shorthand property hides an element (partially or fully) by m
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7996
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7996
 
-***
+---
 
 ### WebkitMaskAttachment?
 
@@ -2380,9 +2380,9 @@ If a `mask-image` is specified, `-webkit-mask-attachment` determines whether the
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7445
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7445
 
-***
+---
 
 ### WebkitMaskBoxImage?
 
@@ -2398,9 +2398,9 @@ The **`mask-border`** CSS shorthand property lets you create a mask along the ed
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8002
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8002
 
-***
+---
 
 ### WebkitMaskBoxImageOutset?
 
@@ -2418,9 +2418,9 @@ The **`mask-border-outset`** CSS property specifies the distance by which an ele
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7453
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7453
 
-***
+---
 
 ### WebkitMaskBoxImageRepeat?
 
@@ -2438,9 +2438,9 @@ The **`mask-border-repeat`** CSS property sets how the edge regions of a source 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7461
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7461
 
-***
+---
 
 ### WebkitMaskBoxImageSlice?
 
@@ -2458,9 +2458,9 @@ The **`mask-border-slice`** CSS property divides the image set by `mask-border-s
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7469
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7469
 
-***
+---
 
 ### WebkitMaskBoxImageSource?
 
@@ -2478,9 +2478,9 @@ The **`mask-border-source`** CSS property sets the source image used to create a
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7477
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7477
 
-***
+---
 
 ### WebkitMaskBoxImageWidth?
 
@@ -2498,9 +2498,9 @@ The **`mask-border-width`** CSS property sets the width of an element's mask bor
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7485
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7485
 
-***
+---
 
 ### WebkitMaskClip?
 
@@ -2518,9 +2518,9 @@ The **`mask-clip`** CSS property determines the area which is affected by a mask
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7493
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7493
 
-***
+---
 
 ### WebkitMaskComposite?
 
@@ -2538,9 +2538,9 @@ The **`-webkit-mask-composite`** property specifies the manner in which multiple
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7501
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7501
 
-***
+---
 
 ### WebkitMaskImage?
 
@@ -2558,9 +2558,9 @@ The **`mask-image`** CSS property sets the image that is used as mask layer for 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7509
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7509
 
-***
+---
 
 ### WebkitMaskOrigin?
 
@@ -2578,9 +2578,9 @@ The **`mask-origin`** CSS property sets the origin of a mask.
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7517
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7517
 
-***
+---
 
 ### WebkitMaskPosition?
 
@@ -2598,9 +2598,9 @@ The **`mask-position`** CSS property sets the initial position, relative to the 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7525
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7525
 
-***
+---
 
 ### WebkitMaskPositionX?
 
@@ -2618,9 +2618,9 @@ The `-webkit-mask-position-x` CSS property sets the initial horizontal position 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7533
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7533
 
-***
+---
 
 ### WebkitMaskPositionY?
 
@@ -2638,9 +2638,9 @@ The `-webkit-mask-position-y` CSS property sets the initial vertical position of
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7541
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7541
 
-***
+---
 
 ### WebkitMaskRepeat?
 
@@ -2658,9 +2658,9 @@ The **`mask-repeat`** CSS property sets how mask images are repeated. A mask ima
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7549
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7549
 
-***
+---
 
 ### WebkitMaskRepeatX?
 
@@ -2678,9 +2678,9 @@ The `-webkit-mask-repeat-x` property specifies whether and how a mask image is r
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7557
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7557
 
-***
+---
 
 ### WebkitMaskRepeatY?
 
@@ -2698,9 +2698,9 @@ The `-webkit-mask-repeat-y` property sets whether and how a mask image is repeat
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7565
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7565
 
-***
+---
 
 ### WebkitMaskSize?
 
@@ -2718,9 +2718,9 @@ The **`mask-size`** CSS property specifies the sizes of the mask images. The siz
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7573
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7573
 
-***
+---
 
 ### WebkitMaxInlineSize?
 
@@ -2738,9 +2738,9 @@ The **`max-inline-size`** CSS property defines the horizontal or vertical maximu
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7581
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7581
 
-***
+---
 
 ### WebkitOrder?
 
@@ -2758,9 +2758,9 @@ The **`order`** CSS property sets the order to lay out an item in a flex or grid
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7589
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7589
 
-***
+---
 
 ### WebkitOverflowScrolling?
 
@@ -2778,9 +2778,9 @@ The `-webkit-overflow-scrolling` CSS property controls whether or not touch devi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7597
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7597
 
-***
+---
 
 ### WebkitPaddingEnd?
 
@@ -2798,9 +2798,9 @@ The **`padding-inline-end`** CSS property defines the logical inline end padding
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7605
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7605
 
-***
+---
 
 ### WebkitPaddingStart?
 
@@ -2818,9 +2818,9 @@ The **`padding-inline-start`** CSS property defines the logical inline start pad
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7613
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7613
 
-***
+---
 
 ### WebkitPerspective?
 
@@ -2838,9 +2838,9 @@ The **`perspective`** CSS property determines the distance between the z=0 plane
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7621
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7621
 
-***
+---
 
 ### WebkitPerspectiveOrigin?
 
@@ -2858,9 +2858,9 @@ The **`perspective-origin`** CSS property determines the position at which the v
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7629
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7629
 
-***
+---
 
 ### WebkitPrintColorAdjust?
 
@@ -2878,9 +2878,9 @@ The **`print-color-adjust`** CSS property sets what, if anything, the user agent
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7637
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7637
 
-***
+---
 
 ### WebkitRubyPosition?
 
@@ -2898,9 +2898,9 @@ The **`ruby-position`** CSS property defines the position of a ruby element rela
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7645
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7645
 
-***
+---
 
 ### WebkitScrollSnapType?
 
@@ -2918,9 +2918,9 @@ The **`scroll-snap-type`** CSS property sets how strictly snap points are enforc
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7653
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7653
 
-***
+---
 
 ### WebkitShapeMargin?
 
@@ -2938,9 +2938,9 @@ The **`shape-margin`** CSS property sets a margin for a CSS shape created using 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7661
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7661
 
-***
+---
 
 ### WebkitTapHighlightColor?
 
@@ -2958,9 +2958,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7661
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7669
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7669
 
-***
+---
 
 ### WebkitTextCombine?
 
@@ -2978,9 +2978,9 @@ The **`text-combine-upright`** CSS property sets the combination of characters i
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7677
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7677
 
-***
+---
 
 ### WebkitTextDecorationColor?
 
@@ -2998,9 +2998,9 @@ The **`text-decoration-color`** CSS property sets the color of decorations added
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7685
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7685
 
-***
+---
 
 ### WebkitTextDecorationLine?
 
@@ -3018,9 +3018,9 @@ The **`text-decoration-line`** CSS property sets the kind of decoration that is 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7693
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7693
 
-***
+---
 
 ### WebkitTextDecorationSkip?
 
@@ -3038,9 +3038,9 @@ The **`text-decoration-skip`** CSS property sets what parts of an element's cont
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7701
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7701
 
-***
+---
 
 ### WebkitTextDecorationStyle?
 
@@ -3058,9 +3058,9 @@ The **`text-decoration-style`** CSS property sets the style of the lines specifi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7709
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7709
 
-***
+---
 
 ### WebkitTextEmphasis?
 
@@ -3076,9 +3076,9 @@ The **`text-emphasis`** CSS property applies emphasis marks to text (except spac
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8008
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8008
 
-***
+---
 
 ### WebkitTextEmphasisColor?
 
@@ -3096,9 +3096,9 @@ The **`text-emphasis-color`** CSS property sets the color of emphasis marks. Thi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7717
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7717
 
-***
+---
 
 ### WebkitTextEmphasisPosition?
 
@@ -3116,9 +3116,9 @@ The **`text-emphasis-position`** CSS property sets where emphasis marks are draw
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7725
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7725
 
-***
+---
 
 ### WebkitTextEmphasisStyle?
 
@@ -3136,9 +3136,9 @@ The **`text-emphasis-style`** CSS property sets the appearance of emphasis marks
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7733
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7733
 
-***
+---
 
 ### WebkitTextFillColor?
 
@@ -3156,9 +3156,9 @@ The **`-webkit-text-fill-color`** CSS property specifies the fill color of chara
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7741
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7741
 
-***
+---
 
 ### WebkitTextOrientation?
 
@@ -3176,9 +3176,9 @@ The **`text-orientation`** CSS property sets the orientation of the text charact
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7749
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7749
 
-***
+---
 
 ### WebkitTextSizeAdjust?
 
@@ -3196,9 +3196,9 @@ The **`text-size-adjust`** CSS property controls the text inflation algorithm us
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7757
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7757
 
-***
+---
 
 ### WebkitTextStroke?
 
@@ -3214,9 +3214,9 @@ The **`-webkit-text-stroke`** CSS property specifies the width and color of stro
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8014
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8014
 
-***
+---
 
 ### WebkitTextStrokeColor?
 
@@ -3234,9 +3234,9 @@ The **`-webkit-text-stroke-color`** CSS property specifies the stroke color of c
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7765
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7765
 
-***
+---
 
 ### WebkitTextStrokeWidth?
 
@@ -3254,9 +3254,9 @@ The **`-webkit-text-stroke-width`** CSS property specifies the width of the stro
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7773
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7773
 
-***
+---
 
 ### WebkitTextUnderlinePosition?
 
@@ -3274,9 +3274,9 @@ The **`text-underline-position`** CSS property specifies the position of the und
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7781
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7781
 
-***
+---
 
 ### WebkitTouchCallout?
 
@@ -3294,9 +3294,9 @@ The `-webkit-touch-callout` CSS property controls the display of the default cal
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7789
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7789
 
-***
+---
 
 ### WebkitTransform?
 
@@ -3314,9 +3314,9 @@ The **`transform`** CSS property lets you rotate, scale, skew, or translate an e
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7797
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7797
 
-***
+---
 
 ### WebkitTransformOrigin?
 
@@ -3334,9 +3334,9 @@ The **`transform-origin`** CSS property sets the origin for an element's transfo
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7805
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7805
 
-***
+---
 
 ### WebkitTransformStyle?
 
@@ -3354,9 +3354,9 @@ The **`transform-style`** CSS property sets whether children of an element are p
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7813
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7813
 
-***
+---
 
 ### WebkitTransition?
 
@@ -3372,9 +3372,9 @@ The **`transition`** CSS property is a shorthand property for `transition-proper
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8020
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8020
 
-***
+---
 
 ### WebkitTransitionDelay?
 
@@ -3392,9 +3392,9 @@ The **`transition-delay`** CSS property specifies the duration to wait before st
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7821
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7821
 
-***
+---
 
 ### WebkitTransitionDuration?
 
@@ -3412,9 +3412,9 @@ The **`transition-duration`** CSS property sets the length of time a transition 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7829
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7829
 
-***
+---
 
 ### WebkitTransitionProperty?
 
@@ -3432,9 +3432,9 @@ The **`transition-property`** CSS property sets the CSS properties to which a tr
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7837
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7837
 
-***
+---
 
 ### WebkitTransitionTimingFunction?
 
@@ -3452,9 +3452,9 @@ The **`transition-timing-function`** CSS property sets how intermediate values a
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7845
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7845
 
-***
+---
 
 ### WebkitUserModify?
 
@@ -3470,9 +3470,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7845
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7851
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7851
 
-***
+---
 
 ### WebkitUserSelect?
 
@@ -3490,9 +3490,9 @@ The **`user-select`** CSS property controls whether the user can select text. Th
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7859
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7859
 
-***
+---
 
 ### WebkitWritingMode?
 
@@ -3510,9 +3510,9 @@ The **`writing-mode`** CSS property sets whether lines of text are laid out hori
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7867
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7867
 
-***
+---
 
 ### msAccelerator?
 
@@ -3530,9 +3530,9 @@ The **`-ms-accelerator`** CSS property is a Microsoft extension that sets or ret
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6523
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6523
 
-***
+---
 
 ### msBlockProgression?
 
@@ -3550,9 +3550,9 @@ The **`-ms-block-progression`** CSS property is a Microsoft extension that speci
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6531
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6531
 
-***
+---
 
 ### msContentZoomChaining?
 
@@ -3570,9 +3570,9 @@ The **`-ms-content-zoom-chaining`** CSS property is a Microsoft extension specif
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6539
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6539
 
-***
+---
 
 ### msContentZoomLimit?
 
@@ -3588,9 +3588,9 @@ The **`-ms-content-zoom-limit`** CSS shorthand property is a Microsoft extension
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7906
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7906
 
-***
+---
 
 ### msContentZoomLimitMax?
 
@@ -3608,9 +3608,9 @@ The **`-ms-content-zoom-limit-max`** CSS property is a Microsoft extension that 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6547
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6547
 
-***
+---
 
 ### msContentZoomLimitMin?
 
@@ -3628,9 +3628,9 @@ The **`-ms-content-zoom-limit-min`** CSS property is a Microsoft extension that 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6555
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6555
 
-***
+---
 
 ### msContentZoomSnap?
 
@@ -3646,9 +3646,9 @@ The **`-ms-content-zoom-snap`** CSS shorthand property is a Microsoft extension 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7912
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7912
 
-***
+---
 
 ### msContentZoomSnapPoints?
 
@@ -3666,9 +3666,9 @@ The **`-ms-content-zoom-snap-points`** CSS property is a Microsoft extension tha
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6563
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6563
 
-***
+---
 
 ### msContentZoomSnapType?
 
@@ -3686,9 +3686,9 @@ The **`-ms-content-zoom-snap-type`** CSS property is a Microsoft extension that 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6571
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6571
 
-***
+---
 
 ### msContentZooming?
 
@@ -3706,9 +3706,9 @@ The **`-ms-content-zooming`** CSS property is a Microsoft extension that specifi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6579
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6579
 
-***
+---
 
 ### msFilter?
 
@@ -3726,9 +3726,9 @@ The `-ms-filter` CSS property is a Microsoft extension that sets or retrieves th
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6587
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6587
 
-***
+---
 
 ### msFlex?
 
@@ -3744,9 +3744,9 @@ The **`flex`** CSS shorthand property sets how a flex _item_ will grow or shrink
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7918
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7918
 
-***
+---
 
 ### msFlexDirection?
 
@@ -3764,9 +3764,9 @@ The **`flex-direction`** CSS property sets how flex items are placed in the flex
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6595
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6595
 
-***
+---
 
 ### msFlexPositive?
 
@@ -3784,9 +3784,9 @@ The **`flex-grow`** CSS property sets the flex grow factor of a flex item's main
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6603
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6603
 
-***
+---
 
 ### msFlowFrom?
 
@@ -3804,9 +3804,9 @@ The **`-ms-flow-from`** CSS property is a Microsoft extension that gets or sets 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6611
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6611
 
-***
+---
 
 ### msFlowInto?
 
@@ -3824,9 +3824,9 @@ The **`-ms-flow-into`** CSS property is a Microsoft extension that gets or sets 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6619
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6619
 
-***
+---
 
 ### msGridColumns?
 
@@ -3844,9 +3844,9 @@ The **`grid-template-columns`** CSS property defines the line names and track si
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6627
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6627
 
-***
+---
 
 ### msGridRows?
 
@@ -3864,9 +3864,9 @@ The **`grid-template-rows`** CSS property defines the line names and track sizin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6635
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6635
 
-***
+---
 
 ### msHighContrastAdjust?
 
@@ -3884,9 +3884,9 @@ The **`-ms-high-contrast-adjust`** CSS property is a Microsoft extension that ge
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6643
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6643
 
-***
+---
 
 ### msHyphenateLimitChars?
 
@@ -3904,9 +3904,9 @@ The **`-ms-hyphenate-limit-chars`** CSS property is a Microsoft extension that s
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6651
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6651
 
-***
+---
 
 ### msHyphenateLimitLines?
 
@@ -3924,9 +3924,9 @@ The **`-ms-hyphenate-limit-lines`** CSS property is a Microsoft extension specif
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6659
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6659
 
-***
+---
 
 ### msHyphenateLimitZone?
 
@@ -3944,9 +3944,9 @@ The `**-ms-hyphenate-limit-zone**` CSS property is a Microsoft extension specify
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6667
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6667
 
-***
+---
 
 ### msHyphens?
 
@@ -3964,9 +3964,9 @@ The **`hyphens`** CSS property specifies how words should be hyphenated when tex
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6675
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6675
 
-***
+---
 
 ### msImeAlign?
 
@@ -3984,9 +3984,9 @@ The **`-ms-ime-align`** CSS property is a Microsoft extension aligning the Input
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6683
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6683
 
-***
+---
 
 ### msLineBreak?
 
@@ -4004,9 +4004,9 @@ The **`line-break`** CSS property sets how to break lines of Chinese, Japanese, 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6691
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6691
 
-***
+---
 
 ### msOrder?
 
@@ -4024,9 +4024,9 @@ The **`order`** CSS property sets the order to lay out an item in a flex or grid
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6699
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6699
 
-***
+---
 
 ### msOverflowStyle?
 
@@ -4044,9 +4044,9 @@ The **`-ms-overflow-style`** CSS property is a Microsoft extension controlling t
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6707
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6707
 
-***
+---
 
 ### msOverflowX?
 
@@ -4064,9 +4064,9 @@ The **`overflow-x`** CSS property sets what shows when content overflows a block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6715
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6715
 
-***
+---
 
 ### msOverflowY?
 
@@ -4084,9 +4084,9 @@ The **`overflow-y`** CSS property sets what shows when content overflows a block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6723
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6723
 
-***
+---
 
 ### msScrollChaining?
 
@@ -4104,9 +4104,9 @@ The `**-ms-scroll-chaining**` CSS property is a Microsoft extension that specifi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6731
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6731
 
-***
+---
 
 ### msScrollLimit?
 
@@ -4122,9 +4122,9 @@ The **\-ms-scroll-limit** CSS property is a Microsoft extension that specifies v
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7924
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7924
 
-***
+---
 
 ### msScrollLimitXMax?
 
@@ -4142,9 +4142,9 @@ The `**-ms-scroll-limit-x-max**` CSS property is a Microsoft extension that spec
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6739
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6739
 
-***
+---
 
 ### msScrollLimitXMin?
 
@@ -4162,9 +4162,9 @@ The **`-ms-scroll-limit-x-min`** CSS property is a Microsoft extension that spec
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6747
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6747
 
-***
+---
 
 ### msScrollLimitYMax?
 
@@ -4182,9 +4182,9 @@ The **`-ms-scroll-limit-y-max`** CSS property is a Microsoft extension that spec
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6755
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6755
 
-***
+---
 
 ### msScrollLimitYMin?
 
@@ -4202,9 +4202,9 @@ The **`-ms-scroll-limit-y-min`** CSS property is a Microsoft extension that spec
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6763
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6763
 
-***
+---
 
 ### msScrollRails?
 
@@ -4222,9 +4222,9 @@ The **`-ms-scroll-rails`** CSS property is a Microsoft extension that specifies 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6771
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6771
 
-***
+---
 
 ### msScrollSnapPointsX?
 
@@ -4242,9 +4242,9 @@ The **`-ms-scroll-snap-points-x`** CSS property is a Microsoft extension that sp
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6779
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6779
 
-***
+---
 
 ### msScrollSnapPointsY?
 
@@ -4262,9 +4262,9 @@ The **`-ms-scroll-snap-points-y`** CSS property is a Microsoft extension that sp
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6787
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6787
 
-***
+---
 
 ### msScrollSnapType?
 
@@ -4282,9 +4282,9 @@ The **`scroll-snap-type`** CSS property sets how strictly snap points are enforc
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6795
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6795
 
-***
+---
 
 ### msScrollSnapX?
 
@@ -4300,9 +4300,9 @@ The **`-ms-scroll-snap-x`** CSS shorthand property is a Microsoft extension that
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7930
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7930
 
-***
+---
 
 ### msScrollSnapY?
 
@@ -4318,9 +4318,9 @@ The **`-ms-scroll-snap-x`** CSS shorthand property is a Microsoft extension that
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7936
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7936
 
-***
+---
 
 ### msScrollTranslation?
 
@@ -4338,9 +4338,9 @@ The **`-ms-scroll-translation`** CSS property is a Microsoft extension that spec
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6803
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6803
 
-***
+---
 
 ### msScrollbar3dlightColor?
 
@@ -4358,9 +4358,9 @@ The **`-ms-scrollbar-3dlight-color`** CSS property is a Microsoft extension spec
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6811
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6811
 
-***
+---
 
 ### msScrollbarArrowColor?
 
@@ -4378,9 +4378,9 @@ The **`-ms-scrollbar-arrow-color`** CSS property is a Microsoft extension that s
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6819
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6819
 
-***
+---
 
 ### msScrollbarBaseColor?
 
@@ -4398,9 +4398,9 @@ The `**-ms-scrollbar-base-color**` CSS property is a Microsoft extension that sp
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6827
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6827
 
-***
+---
 
 ### msScrollbarDarkshadowColor?
 
@@ -4418,9 +4418,9 @@ The **`-ms-scrollbar-darkshadow-color`** CSS property is a Microsoft extension t
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6835
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6835
 
-***
+---
 
 ### msScrollbarFaceColor?
 
@@ -4438,9 +4438,9 @@ The `**-ms-scrollbar-face-color**` CSS property is a Microsoft extension that sp
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6843
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6843
 
-***
+---
 
 ### msScrollbarHighlightColor?
 
@@ -4458,9 +4458,9 @@ The `**-ms-scrollbar-highlight-color**` CSS property is a Microsoft extension th
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6851
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6851
 
-***
+---
 
 ### msScrollbarShadowColor?
 
@@ -4478,9 +4478,9 @@ The **`-ms-scrollbar-shadow-color`** CSS property is a Microsoft extension that 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6859
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6859
 
-***
+---
 
 ### msScrollbarTrackColor?
 
@@ -4498,9 +4498,9 @@ The **`-ms-scrollbar-track-color`** CSS property is a Microsoft extension that s
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6867
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6867
 
-***
+---
 
 ### msTextAutospace?
 
@@ -4518,9 +4518,9 @@ The **`-ms-text-autospace`** CSS property is a Microsoft extension that specifie
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6875
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6875
 
-***
+---
 
 ### msTextCombineHorizontal?
 
@@ -4538,9 +4538,9 @@ The **`text-combine-upright`** CSS property sets the combination of characters i
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6883
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6883
 
-***
+---
 
 ### msTextOverflow?
 
@@ -4558,9 +4558,9 @@ The **`text-overflow`** CSS property sets how hidden overflow content is signale
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6891
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6891
 
-***
+---
 
 ### msTouchAction?
 
@@ -4578,9 +4578,9 @@ The **`touch-action`** CSS property sets how an element's region can be manipula
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6899
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6899
 
-***
+---
 
 ### msTouchSelect?
 
@@ -4598,9 +4598,9 @@ The **`-ms-touch-select`** CSS property is a Microsoft extension that toggles th
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6907
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6907
 
-***
+---
 
 ### msTransform?
 
@@ -4618,9 +4618,9 @@ The **`transform`** CSS property lets you rotate, scale, skew, or translate an e
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6915
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6915
 
-***
+---
 
 ### msTransformOrigin?
 
@@ -4638,9 +4638,9 @@ The **`transform-origin`** CSS property sets the origin for an element's transfo
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6923
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6923
 
-***
+---
 
 ### msTransition?
 
@@ -4656,9 +4656,9 @@ The **`transition`** CSS property is a shorthand property for `transition-proper
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7942
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7942
 
-***
+---
 
 ### msTransitionDelay?
 
@@ -4676,9 +4676,9 @@ The **`transition-delay`** CSS property specifies the duration to wait before st
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6931
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6931
 
-***
+---
 
 ### msTransitionDuration?
 
@@ -4696,9 +4696,9 @@ The **`transition-duration`** CSS property sets the length of time a transition 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6939
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6939
 
-***
+---
 
 ### msTransitionProperty?
 
@@ -4716,9 +4716,9 @@ The **`transition-property`** CSS property sets the CSS properties to which a tr
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6947
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6947
 
-***
+---
 
 ### msTransitionTimingFunction?
 
@@ -4736,9 +4736,9 @@ The **`transition-timing-function`** CSS property sets how intermediate values a
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6955
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6955
 
-***
+---
 
 ### msUserSelect?
 
@@ -4756,9 +4756,9 @@ The **`user-select`** CSS property controls whether the user can select text. Th
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6963
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6963
 
-***
+---
 
 ### msWordBreak?
 
@@ -4776,9 +4776,9 @@ The **`word-break`** CSS property sets whether line breaks appear wherever the t
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6971
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6971
 
-***
+---
 
 ### msWrapFlow?
 
@@ -4796,9 +4796,9 @@ The **`-ms-wrap-flow`** CSS property is a Microsoft extension that specifies how
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6979
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6979
 
-***
+---
 
 ### msWrapMargin?
 
@@ -4816,9 +4816,9 @@ The **`-ms-wrap-margin`** CSS property is a Microsoft extension that specifies a
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6987
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6987
 
-***
+---
 
 ### msWrapThrough?
 
@@ -4836,9 +4836,9 @@ The **`-ms-wrap-through`** CSS property is a Microsoft extension that specifies 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6995
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6995
 
-***
+---
 
 ### msWritingMode?
 
@@ -4856,4 +4856,4 @@ The **`writing-mode`** CSS property sets whether lines of text are laid out hori
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7003
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7003

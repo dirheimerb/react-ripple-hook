@@ -14,4 +14,4 @@
 
 ## Functions
 
--   [default](functions/default.md)
+-   [useRipple](functions/useRipple.md)

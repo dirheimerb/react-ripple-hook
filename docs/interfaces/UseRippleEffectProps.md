@@ -12,9 +12,13 @@
 
 > **elementRef**: [`RefObject`](../-internal-/interfaces/RefObject.md)\<[`HTMLElement`](https://developer.mozilla.org/docs/Web/API/HTMLElement)\>
 
+#### Description
+
+The reference to the element that will have the ripple effect
+
 #### Source
 
-[src/use-ripple.ts:5](https://github.com/dirheimerb/react-ripple-hook/blob/6e4675e/src/use-ripple.ts#L5)
+[src/use-ripple.ts:9](https://github.com/dirheimerb/react-ripple-hook/blob/0024be9/src/use-ripple.ts#L9)
 
 ---
 
@@ -22,6 +26,10 @@
 
 > **`optional`** **rippleStyle**: [`CSSProperties`](../-internal-/interfaces/CSSProperties.md)
 
+#### Description
+
+The CSS properties for the ripple effect
+
 #### Source
 
-[src/use-ripple.ts:6](https://github.com/dirheimerb/react-ripple-hook/blob/6e4675e/src/use-ripple.ts#L6)
+[src/use-ripple.ts:14](https://github.com/dirheimerb/react-ripple-hook/blob/0024be9/src/use-ripple.ts#L14)

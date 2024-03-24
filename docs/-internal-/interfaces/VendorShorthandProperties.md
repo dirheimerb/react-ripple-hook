@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../../README.md) \| [API](../../globals.md)
 
-***
+---
 
 [react-ripple-hook](../../README.md) / [\<internal\>](../README.md) / VendorShorthandProperties
 
@@ -8,7 +8,7 @@
 
 ## Extended by
 
-- [`VendorProperties`](VendorProperties.md)
+-   [`VendorProperties`](VendorProperties.md)
 
 ## Type parameters
 
@@ -28,9 +28,9 @@ The **`animation`** shorthand CSS property applies an animation between styles. 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7876
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7876
 
-***
+---
 
 ### MozBorderImage?
 
@@ -42,9 +42,9 @@ The **`border-image`** CSS property draws an image around a given element. It re
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7882
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7882
 
-***
+---
 
 ### MozColumnRule?
 
@@ -56,9 +56,9 @@ The **`column-rule`** shorthand CSS property sets the width, style, and color of
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7888
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7888
 
-***
+---
 
 ### MozColumns?
 
@@ -70,9 +70,9 @@ The **`columns`** CSS shorthand property sets the number of columns to use when 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7894
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7894
 
-***
+---
 
 ### MozOutlineRadius?
 
@@ -84,9 +84,9 @@ In Mozilla applications like Firefox, the **`-moz-outline-radius`** CSS shorthan
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7900
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7900
 
-***
+---
 
 ### WebkitAnimation?
 
@@ -98,9 +98,9 @@ The **`animation`** shorthand CSS property applies an animation between styles. 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7948
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7948
 
-***
+---
 
 ### WebkitBorderBefore?
 
@@ -112,9 +112,9 @@ The **`-webkit-border-before`** CSS property is a shorthand property for setting
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7954
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7954
 
-***
+---
 
 ### WebkitBorderImage?
 
@@ -126,9 +126,9 @@ The **`border-image`** CSS property draws an image around a given element. It re
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7960
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7960
 
-***
+---
 
 ### WebkitBorderRadius?
 
@@ -140,9 +140,9 @@ The **`border-radius`** CSS property rounds the corners of an element's outer bo
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7966
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7966
 
-***
+---
 
 ### WebkitColumnRule?
 
@@ -154,9 +154,9 @@ The **`column-rule`** shorthand CSS property sets the width, style, and color of
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7972
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7972
 
-***
+---
 
 ### WebkitColumns?
 
@@ -168,9 +168,9 @@ The **`columns`** CSS shorthand property sets the number of columns to use when 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7978
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7978
 
-***
+---
 
 ### WebkitFlex?
 
@@ -182,9 +182,9 @@ The **`flex`** CSS shorthand property sets how a flex _item_ will grow or shrink
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7984
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7984
 
-***
+---
 
 ### WebkitFlexFlow?
 
@@ -196,9 +196,9 @@ The **`flex-flow`** CSS shorthand property specifies the direction of a flex con
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7990
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7990
 
-***
+---
 
 ### WebkitMask?
 
@@ -210,9 +210,9 @@ The **`mask`** CSS shorthand property hides an element (partially or fully) by m
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7996
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7996
 
-***
+---
 
 ### WebkitMaskBoxImage?
 
@@ -224,9 +224,9 @@ The **`mask-border`** CSS shorthand property lets you create a mask along the ed
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8002
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8002
 
-***
+---
 
 ### WebkitTextEmphasis?
 
@@ -238,9 +238,9 @@ The **`text-emphasis`** CSS property applies emphasis marks to text (except spac
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8008
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8008
 
-***
+---
 
 ### WebkitTextStroke?
 
@@ -252,9 +252,9 @@ The **`-webkit-text-stroke`** CSS property specifies the width and color of stro
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8014
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8014
 
-***
+---
 
 ### WebkitTransition?
 
@@ -266,9 +266,9 @@ The **`transition`** CSS property is a shorthand property for `transition-proper
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:8020
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:8020
 
-***
+---
 
 ### msContentZoomLimit?
 
@@ -280,9 +280,9 @@ The **`-ms-content-zoom-limit`** CSS shorthand property is a Microsoft extension
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7906
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7906
 
-***
+---
 
 ### msContentZoomSnap?
 
@@ -294,9 +294,9 @@ The **`-ms-content-zoom-snap`** CSS shorthand property is a Microsoft extension 
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7912
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7912
 
-***
+---
 
 ### msFlex?
 
@@ -308,9 +308,9 @@ The **`flex`** CSS shorthand property sets how a flex _item_ will grow or shrink
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7918
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7918
 
-***
+---
 
 ### msScrollLimit?
 
@@ -322,9 +322,9 @@ The **\-ms-scroll-limit** CSS property is a Microsoft extension that specifies v
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7924
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7924
 
-***
+---
 
 ### msScrollSnapX?
 
@@ -336,9 +336,9 @@ The **`-ms-scroll-snap-x`** CSS shorthand property is a Microsoft extension that
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7930
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7930
 
-***
+---
 
 ### msScrollSnapY?
 
@@ -350,9 +350,9 @@ The **`-ms-scroll-snap-x`** CSS shorthand property is a Microsoft extension that
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7936
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7936
 
-***
+---
 
 ### msTransition?
 
@@ -364,4 +364,4 @@ The **`transition`** CSS property is a shorthand property for `transition-proper
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:7942
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:7942

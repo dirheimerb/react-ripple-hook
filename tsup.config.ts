@@ -1,7 +1,7 @@
 import { defineConfig } from 'tsup';
 
 export default defineConfig((options) => ({
-    entryPoints: ['index.ts'],
+    entryPoints: ['./src/use-ripple.ts'],
     format: ['cjs', 'esm'],
     sourcemap: true,
     external: ['react'],

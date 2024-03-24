@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../../README.md) \| [API](../../globals.md)
 
-***
+---
 
 [react-ripple-hook](../../README.md) / [\<internal\>](../README.md) / SvgProperties
 
@@ -8,7 +8,7 @@
 
 ## Extended by
 
-- [`Properties`](Properties.md)
+-   [`Properties`](Properties.md)
 
 ## Type parameters
 
@@ -24,9 +24,9 @@
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9081
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9081
 
-***
+---
 
 ### baselineShift?
 
@@ -34,9 +34,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9081
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9082
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9082
 
-***
+---
 
 ### clip?
 
@@ -44,9 +44,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9082
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9083
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9083
 
-***
+---
 
 ### clipPath?
 
@@ -54,9 +54,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9083
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9084
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9084
 
-***
+---
 
 ### clipRule?
 
@@ -64,9 +64,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9084
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9085
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9085
 
-***
+---
 
 ### color?
 
@@ -74,9 +74,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9085
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9086
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9086
 
-***
+---
 
 ### colorInterpolation?
 
@@ -84,9 +84,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9086
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9087
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9087
 
-***
+---
 
 ### colorRendering?
 
@@ -94,9 +94,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9087
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9088
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9088
 
-***
+---
 
 ### cursor?
 
@@ -104,9 +104,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9088
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9089
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9089
 
-***
+---
 
 ### direction?
 
@@ -114,9 +114,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9089
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9090
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9090
 
-***
+---
 
 ### display?
 
@@ -124,9 +124,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9090
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9091
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9091
 
-***
+---
 
 ### dominantBaseline?
 
@@ -134,9 +134,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9091
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9092
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9092
 
-***
+---
 
 ### fill?
 
@@ -144,9 +144,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9092
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9093
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9093
 
-***
+---
 
 ### fillOpacity?
 
@@ -154,9 +154,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9093
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9094
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9094
 
-***
+---
 
 ### fillRule?
 
@@ -164,9 +164,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9094
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9095
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9095
 
-***
+---
 
 ### filter?
 
@@ -174,9 +174,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9095
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9096
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9096
 
-***
+---
 
 ### floodColor?
 
@@ -184,9 +184,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9096
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9097
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9097
 
-***
+---
 
 ### floodOpacity?
 
@@ -194,9 +194,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9097
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9098
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9098
 
-***
+---
 
 ### font?
 
@@ -204,9 +204,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9098
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9099
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9099
 
-***
+---
 
 ### fontFamily?
 
@@ -214,9 +214,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9099
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9100
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9100
 
-***
+---
 
 ### fontSize?
 
@@ -224,9 +224,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9100
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9101
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9101
 
-***
+---
 
 ### fontSizeAdjust?
 
@@ -234,9 +234,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9101
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9102
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9102
 
-***
+---
 
 ### fontStretch?
 
@@ -244,9 +244,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9102
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9103
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9103
 
-***
+---
 
 ### fontStyle?
 
@@ -254,9 +254,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9103
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9104
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9104
 
-***
+---
 
 ### fontVariant?
 
@@ -264,9 +264,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9104
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9105
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9105
 
-***
+---
 
 ### fontWeight?
 
@@ -274,9 +274,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9105
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9106
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9106
 
-***
+---
 
 ### glyphOrientationVertical?
 
@@ -284,9 +284,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9106
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9107
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9107
 
-***
+---
 
 ### imageRendering?
 
@@ -294,9 +294,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9107
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9108
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9108
 
-***
+---
 
 ### letterSpacing?
 
@@ -304,9 +304,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9108
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9109
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9109
 
-***
+---
 
 ### lightingColor?
 
@@ -314,9 +314,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9109
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9110
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9110
 
-***
+---
 
 ### lineHeight?
 
@@ -324,9 +324,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9110
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9111
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9111
 
-***
+---
 
 ### marker?
 
@@ -334,9 +334,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9111
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9112
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9112
 
-***
+---
 
 ### markerEnd?
 
@@ -344,9 +344,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9112
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9113
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9113
 
-***
+---
 
 ### markerMid?
 
@@ -354,9 +354,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9113
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9114
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9114
 
-***
+---
 
 ### markerStart?
 
@@ -364,9 +364,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9114
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9115
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9115
 
-***
+---
 
 ### mask?
 
@@ -374,9 +374,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9115
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9116
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9116
 
-***
+---
 
 ### opacity?
 
@@ -384,9 +384,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9116
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9117
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9117
 
-***
+---
 
 ### overflow?
 
@@ -394,9 +394,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9117
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9118
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9118
 
-***
+---
 
 ### paintOrder?
 
@@ -404,9 +404,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9118
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9119
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9119
 
-***
+---
 
 ### pointerEvents?
 
@@ -414,9 +414,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9119
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9120
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9120
 
-***
+---
 
 ### shapeRendering?
 
@@ -424,9 +424,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9120
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9121
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9121
 
-***
+---
 
 ### stopColor?
 
@@ -434,9 +434,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9121
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9122
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9122
 
-***
+---
 
 ### stopOpacity?
 
@@ -444,9 +444,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9122
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9123
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9123
 
-***
+---
 
 ### stroke?
 
@@ -454,9 +454,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9123
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9124
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9124
 
-***
+---
 
 ### strokeDasharray?
 
@@ -464,9 +464,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9124
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9125
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9125
 
-***
+---
 
 ### strokeDashoffset?
 
@@ -474,9 +474,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9125
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9126
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9126
 
-***
+---
 
 ### strokeLinecap?
 
@@ -484,9 +484,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9126
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9127
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9127
 
-***
+---
 
 ### strokeLinejoin?
 
@@ -494,9 +494,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9127
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9128
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9128
 
-***
+---
 
 ### strokeMiterlimit?
 
@@ -504,9 +504,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9128
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9129
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9129
 
-***
+---
 
 ### strokeOpacity?
 
@@ -514,9 +514,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9129
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9130
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9130
 
-***
+---
 
 ### strokeWidth?
 
@@ -524,9 +524,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9130
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9131
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9131
 
-***
+---
 
 ### textAnchor?
 
@@ -534,9 +534,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9131
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9132
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9132
 
-***
+---
 
 ### textDecoration?
 
@@ -544,9 +544,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9132
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9133
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9133
 
-***
+---
 
 ### textRendering?
 
@@ -554,9 +554,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9133
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9134
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9134
 
-***
+---
 
 ### unicodeBidi?
 
@@ -564,9 +564,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9134
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9135
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9135
 
-***
+---
 
 ### vectorEffect?
 
@@ -574,9 +574,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9135
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9136
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9136
 
-***
+---
 
 ### visibility?
 
@@ -584,9 +584,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9136
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9137
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9137
 
-***
+---
 
 ### whiteSpace?
 
@@ -594,9 +594,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9137
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9138
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9138
 
-***
+---
 
 ### wordSpacing?
 
@@ -604,9 +604,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9138
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9139
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9139
 
-***
+---
 
 ### writingMode?
 
@@ -614,4 +614,4 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9139
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:9140
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:9140

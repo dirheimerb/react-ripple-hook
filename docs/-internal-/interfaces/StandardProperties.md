@@ -1,6 +1,6 @@
 **react-ripple-hook** • [Readme](../../README.md) \| [API](../../globals.md)
 
-***
+---
 
 [react-ripple-hook](../../README.md) / [\<internal\>](../README.md) / StandardProperties
 
@@ -8,7 +8,7 @@
 
 ## Extends
 
-- [`StandardLonghandProperties`](StandardLonghandProperties.md)\<`TLength`, `TTime`\>.[`StandardShorthandProperties`](StandardShorthandProperties.md)\<`TLength`, `TTime`\>
+-   [`StandardLonghandProperties`](StandardLonghandProperties.md)\<`TLength`, `TTime`\>.[`StandardShorthandProperties`](StandardShorthandProperties.md)\<`TLength`, `TTime`\>
 
 ## Type parameters
 
@@ -42,9 +42,9 @@ https://developer.mozilla.org/docs/Web/CSS/accent-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:25
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:25
 
-***
+---
 
 ### alignContent?
 
@@ -71,9 +71,9 @@ https://developer.mozilla.org/docs/Web/CSS/align-content
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:40
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:40
 
-***
+---
 
 ### alignItems?
 
@@ -100,9 +100,9 @@ https://developer.mozilla.org/docs/Web/CSS/align-items
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:55
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:55
 
-***
+---
 
 ### alignSelf?
 
@@ -129,9 +129,9 @@ https://developer.mozilla.org/docs/Web/CSS/align-self
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:70
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:70
 
-***
+---
 
 ### alignTracks?
 
@@ -157,9 +157,9 @@ https://developer.mozilla.org/docs/Web/CSS/align-tracks
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:84
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:84
 
-***
+---
 
 ### all?
 
@@ -185,9 +185,9 @@ https://developer.mozilla.org/docs/Web/CSS/all
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5299
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5299
 
-***
+---
 
 ### animation?
 
@@ -212,9 +212,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5312
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5312
 
-***
+---
 
 ### animationComposition?
 
@@ -240,9 +240,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-composition
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:98
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:98
 
-***
+---
 
 ### animationDelay?
 
@@ -269,9 +269,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-delay
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:113
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:113
 
-***
+---
 
 ### animationDirection?
 
@@ -298,9 +298,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-direction
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:128
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:128
 
-***
+---
 
 ### animationDuration?
 
@@ -327,9 +327,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-duration
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:143
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:143
 
-***
+---
 
 ### animationFillMode?
 
@@ -356,9 +356,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-fill-mode
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:158
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:158
 
-***
+---
 
 ### animationIterationCount?
 
@@ -385,9 +385,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-iteration-count
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:173
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:173
 
-***
+---
 
 ### animationName?
 
@@ -414,9 +414,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-name
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:188
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:188
 
-***
+---
 
 ### animationPlayState?
 
@@ -443,9 +443,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-play-state
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:203
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:203
 
-***
+---
 
 ### animationRange?
 
@@ -469,9 +469,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-range
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5324
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5324
 
-***
+---
 
 ### animationRangeEnd?
 
@@ -497,9 +497,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-range-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:217
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:217
 
-***
+---
 
 ### animationRangeStart?
 
@@ -525,9 +525,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-range-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:231
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:231
 
-***
+---
 
 ### animationTimeline?
 
@@ -553,9 +553,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-timeline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:245
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:245
 
-***
+---
 
 ### animationTimingFunction?
 
@@ -582,9 +582,9 @@ https://developer.mozilla.org/docs/Web/CSS/animation-timing-function
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:260
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:260
 
-***
+---
 
 ### appearance?
 
@@ -611,9 +611,9 @@ https://developer.mozilla.org/docs/Web/CSS/appearance
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:275
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:275
 
-***
+---
 
 ### aspectRatio?
 
@@ -639,9 +639,9 @@ https://developer.mozilla.org/docs/Web/CSS/aspect-ratio
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:289
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:289
 
-***
+---
 
 ### backdropFilter?
 
@@ -667,9 +667,9 @@ https://developer.mozilla.org/docs/Web/CSS/backdrop-filter
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:303
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:303
 
-***
+---
 
 ### backfaceVisibility?
 
@@ -696,9 +696,9 @@ https://developer.mozilla.org/docs/Web/CSS/backface-visibility
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:318
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:318
 
-***
+---
 
 ### background?
 
@@ -722,9 +722,9 @@ https://developer.mozilla.org/docs/Web/CSS/background
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5336
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5336
 
-***
+---
 
 ### backgroundAttachment?
 
@@ -750,9 +750,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-attachment
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:332
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:332
 
-***
+---
 
 ### backgroundBlendMode?
 
@@ -778,9 +778,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-blend-mode
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:346
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:346
 
-***
+---
 
 ### backgroundClip?
 
@@ -807,9 +807,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-clip
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:361
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:361
 
-***
+---
 
 ### backgroundColor?
 
@@ -835,9 +835,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:375
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:375
 
-***
+---
 
 ### backgroundImage?
 
@@ -863,9 +863,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-image
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:389
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:389
 
-***
+---
 
 ### backgroundOrigin?
 
@@ -891,9 +891,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-origin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:403
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:403
 
-***
+---
 
 ### backgroundPosition?
 
@@ -919,9 +919,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5350
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5350
 
-***
+---
 
 ### backgroundPositionX?
 
@@ -947,9 +947,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-position-x
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:417
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:417
 
-***
+---
 
 ### backgroundPositionY?
 
@@ -975,9 +975,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-position-y
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:431
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:431
 
-***
+---
 
 ### backgroundRepeat?
 
@@ -1003,9 +1003,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-repeat
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:445
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:445
 
-***
+---
 
 ### backgroundSize?
 
@@ -1032,9 +1032,9 @@ https://developer.mozilla.org/docs/Web/CSS/background-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:460
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:460
 
-***
+---
 
 ### blockOverflow?
 
@@ -1050,9 +1050,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:460
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:466
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:466
 
-***
+---
 
 ### blockSize?
 
@@ -1078,9 +1078,9 @@ https://developer.mozilla.org/docs/Web/CSS/block-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:480
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:480
 
-***
+---
 
 ### border?
 
@@ -1104,9 +1104,9 @@ https://developer.mozilla.org/docs/Web/CSS/border
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5362
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5362
 
-***
+---
 
 ### borderBlock?
 
@@ -1130,9 +1130,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5374
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5374
 
-***
+---
 
 ### borderBlockColor?
 
@@ -1158,9 +1158,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:494
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:494
 
-***
+---
 
 ### borderBlockEnd?
 
@@ -1184,9 +1184,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5386
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5386
 
-***
+---
 
 ### borderBlockEndColor?
 
@@ -1212,9 +1212,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-end-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:508
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:508
 
-***
+---
 
 ### borderBlockEndStyle?
 
@@ -1240,9 +1240,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-end-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:522
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:522
 
-***
+---
 
 ### borderBlockEndWidth?
 
@@ -1268,9 +1268,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-end-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:536
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:536
 
-***
+---
 
 ### borderBlockStart?
 
@@ -1294,9 +1294,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5398
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5398
 
-***
+---
 
 ### borderBlockStartColor?
 
@@ -1322,9 +1322,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-start-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:550
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:550
 
-***
+---
 
 ### borderBlockStartStyle?
 
@@ -1350,9 +1350,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-start-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:564
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:564
 
-***
+---
 
 ### borderBlockStartWidth?
 
@@ -1378,9 +1378,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-start-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:578
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:578
 
-***
+---
 
 ### borderBlockStyle?
 
@@ -1406,9 +1406,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:592
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:592
 
-***
+---
 
 ### borderBlockWidth?
 
@@ -1434,9 +1434,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-block-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:606
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:606
 
-***
+---
 
 ### borderBottom?
 
@@ -1460,9 +1460,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-bottom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5410
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5410
 
-***
+---
 
 ### borderBottomColor?
 
@@ -1488,9 +1488,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-bottom-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:620
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:620
 
-***
+---
 
 ### borderBottomLeftRadius?
 
@@ -1517,9 +1517,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-bottom-left-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:635
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:635
 
-***
+---
 
 ### borderBottomRightRadius?
 
@@ -1546,9 +1546,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-bottom-right-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:650
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:650
 
-***
+---
 
 ### borderBottomStyle?
 
@@ -1574,9 +1574,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-bottom-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:664
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:664
 
-***
+---
 
 ### borderBottomWidth?
 
@@ -1602,9 +1602,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-bottom-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:678
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:678
 
-***
+---
 
 ### borderCollapse?
 
@@ -1630,9 +1630,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-collapse
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:692
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:692
 
-***
+---
 
 ### borderColor?
 
@@ -1656,9 +1656,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5422
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5422
 
-***
+---
 
 ### borderEndEndRadius?
 
@@ -1684,9 +1684,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-end-end-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:706
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:706
 
-***
+---
 
 ### borderEndStartRadius?
 
@@ -1712,9 +1712,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-end-start-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:720
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:720
 
-***
+---
 
 ### borderImage?
 
@@ -1739,9 +1739,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-image
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5435
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5435
 
-***
+---
 
 ### borderImageOutset?
 
@@ -1767,9 +1767,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-image-outset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:734
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:734
 
-***
+---
 
 ### borderImageRepeat?
 
@@ -1795,9 +1795,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-image-repeat
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:748
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:748
 
-***
+---
 
 ### borderImageSlice?
 
@@ -1823,9 +1823,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-image-slice
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:762
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:762
 
-***
+---
 
 ### borderImageSource?
 
@@ -1851,9 +1851,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-image-source
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:776
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:776
 
-***
+---
 
 ### borderImageWidth?
 
@@ -1879,9 +1879,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-image-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:790
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:790
 
-***
+---
 
 ### borderInline?
 
@@ -1905,9 +1905,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5447
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5447
 
-***
+---
 
 ### borderInlineColor?
 
@@ -1933,9 +1933,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:804
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:804
 
-***
+---
 
 ### borderInlineEnd?
 
@@ -1959,9 +1959,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5459
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5459
 
-***
+---
 
 ### borderInlineEndColor?
 
@@ -1988,9 +1988,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-end-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:819
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:819
 
-***
+---
 
 ### borderInlineEndStyle?
 
@@ -2017,9 +2017,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-end-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:834
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:834
 
-***
+---
 
 ### borderInlineEndWidth?
 
@@ -2046,9 +2046,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-end-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:849
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:849
 
-***
+---
 
 ### borderInlineStart?
 
@@ -2072,9 +2072,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5471
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5471
 
-***
+---
 
 ### borderInlineStartColor?
 
@@ -2101,9 +2101,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-start-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:864
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:864
 
-***
+---
 
 ### borderInlineStartStyle?
 
@@ -2130,9 +2130,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-start-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:879
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:879
 
-***
+---
 
 ### borderInlineStartWidth?
 
@@ -2158,9 +2158,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-start-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:893
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:893
 
-***
+---
 
 ### borderInlineStyle?
 
@@ -2186,9 +2186,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:907
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:907
 
-***
+---
 
 ### borderInlineWidth?
 
@@ -2214,9 +2214,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-inline-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:921
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:921
 
-***
+---
 
 ### borderLeft?
 
@@ -2240,9 +2240,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-left
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5483
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5483
 
-***
+---
 
 ### borderLeftColor?
 
@@ -2268,9 +2268,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-left-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:935
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:935
 
-***
+---
 
 ### borderLeftStyle?
 
@@ -2296,9 +2296,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-left-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:949
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:949
 
-***
+---
 
 ### borderLeftWidth?
 
@@ -2324,9 +2324,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-left-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:963
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:963
 
-***
+---
 
 ### borderRadius?
 
@@ -2351,9 +2351,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5496
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5496
 
-***
+---
 
 ### borderRight?
 
@@ -2377,9 +2377,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-right
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5508
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5508
 
-***
+---
 
 ### borderRightColor?
 
@@ -2405,9 +2405,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-right-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:977
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:977
 
-***
+---
 
 ### borderRightStyle?
 
@@ -2433,9 +2433,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-right-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:991
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:991
 
-***
+---
 
 ### borderRightWidth?
 
@@ -2461,9 +2461,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-right-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1005
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1005
 
-***
+---
 
 ### borderSpacing?
 
@@ -2489,9 +2489,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-spacing
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1019
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1019
 
-***
+---
 
 ### borderStartEndRadius?
 
@@ -2517,9 +2517,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-start-end-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1033
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1033
 
-***
+---
 
 ### borderStartStartRadius?
 
@@ -2545,9 +2545,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-start-start-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1047
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1047
 
-***
+---
 
 ### borderStyle?
 
@@ -2571,9 +2571,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5520
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5520
 
-***
+---
 
 ### borderTop?
 
@@ -2597,9 +2597,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-top
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5532
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5532
 
-***
+---
 
 ### borderTopColor?
 
@@ -2625,9 +2625,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-top-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1061
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1061
 
-***
+---
 
 ### borderTopLeftRadius?
 
@@ -2654,9 +2654,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-top-left-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1076
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1076
 
-***
+---
 
 ### borderTopRightRadius?
 
@@ -2683,9 +2683,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-top-right-radius
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1091
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1091
 
-***
+---
 
 ### borderTopStyle?
 
@@ -2711,9 +2711,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-top-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1105
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1105
 
-***
+---
 
 ### borderTopWidth?
 
@@ -2739,9 +2739,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-top-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1119
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1119
 
-***
+---
 
 ### borderWidth?
 
@@ -2765,9 +2765,9 @@ https://developer.mozilla.org/docs/Web/CSS/border-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5544
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5544
 
-***
+---
 
 ### bottom?
 
@@ -2793,9 +2793,9 @@ https://developer.mozilla.org/docs/Web/CSS/bottom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1133
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1133
 
-***
+---
 
 ### boxDecorationBreak?
 
@@ -2821,9 +2821,9 @@ https://developer.mozilla.org/docs/Web/CSS/box-decoration-break
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1147
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1147
 
-***
+---
 
 ### boxShadow?
 
@@ -2850,9 +2850,9 @@ https://developer.mozilla.org/docs/Web/CSS/box-shadow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1162
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1162
 
-***
+---
 
 ### boxSizing?
 
@@ -2879,9 +2879,9 @@ https://developer.mozilla.org/docs/Web/CSS/box-sizing
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1177
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1177
 
-***
+---
 
 ### breakAfter?
 
@@ -2907,9 +2907,9 @@ https://developer.mozilla.org/docs/Web/CSS/break-after
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1191
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1191
 
-***
+---
 
 ### breakBefore?
 
@@ -2935,9 +2935,9 @@ https://developer.mozilla.org/docs/Web/CSS/break-before
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1205
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1205
 
-***
+---
 
 ### breakInside?
 
@@ -2963,9 +2963,9 @@ https://developer.mozilla.org/docs/Web/CSS/break-inside
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1219
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1219
 
-***
+---
 
 ### captionSide?
 
@@ -2991,9 +2991,9 @@ https://developer.mozilla.org/docs/Web/CSS/caption-side
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1233
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1233
 
-***
+---
 
 ### caret?
 
@@ -3007,9 +3007,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1233
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5546
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5546
 
-***
+---
 
 ### caretColor?
 
@@ -3035,9 +3035,9 @@ https://developer.mozilla.org/docs/Web/CSS/caret-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1247
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1247
 
-***
+---
 
 ### caretShape?
 
@@ -3053,9 +3053,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1247
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1253
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1253
 
-***
+---
 
 ### clear?
 
@@ -3081,9 +3081,9 @@ https://developer.mozilla.org/docs/Web/CSS/clear
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1267
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1267
 
-***
+---
 
 ### clipPath?
 
@@ -3110,9 +3110,9 @@ https://developer.mozilla.org/docs/Web/CSS/clip-path
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1282
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1282
 
-***
+---
 
 ### color?
 
@@ -3138,9 +3138,9 @@ https://developer.mozilla.org/docs/Web/CSS/color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1296
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1296
 
-***
+---
 
 ### colorAdjust?
 
@@ -3167,9 +3167,9 @@ https://developer.mozilla.org/docs/Web/CSS/print-color-adjust
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1311
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1311
 
-***
+---
 
 ### colorScheme?
 
@@ -3195,9 +3195,9 @@ https://developer.mozilla.org/docs/Web/CSS/color-scheme
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1325
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1325
 
-***
+---
 
 ### columnCount?
 
@@ -3224,9 +3224,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-count
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1340
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1340
 
-***
+---
 
 ### columnFill?
 
@@ -3253,9 +3253,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-fill
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1355
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1355
 
-***
+---
 
 ### columnGap?
 
@@ -3281,9 +3281,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-gap
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1369
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1369
 
-***
+---
 
 ### columnRule?
 
@@ -3308,9 +3308,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-rule
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5559
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5559
 
-***
+---
 
 ### columnRuleColor?
 
@@ -3337,9 +3337,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-rule-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1384
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1384
 
-***
+---
 
 ### columnRuleStyle?
 
@@ -3366,9 +3366,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-rule-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1399
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1399
 
-***
+---
 
 ### columnRuleWidth?
 
@@ -3395,9 +3395,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-rule-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1414
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1414
 
-***
+---
 
 ### columnSpan?
 
@@ -3424,9 +3424,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-span
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1429
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1429
 
-***
+---
 
 ### columnWidth?
 
@@ -3453,9 +3453,9 @@ https://developer.mozilla.org/docs/Web/CSS/column-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1444
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1444
 
-***
+---
 
 ### columns?
 
@@ -3480,9 +3480,9 @@ https://developer.mozilla.org/docs/Web/CSS/columns
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5572
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5572
 
-***
+---
 
 ### contain?
 
@@ -3508,9 +3508,9 @@ https://developer.mozilla.org/docs/Web/CSS/contain
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1458
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1458
 
-***
+---
 
 ### containIntrinsicBlockSize?
 
@@ -3536,9 +3536,9 @@ https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-contain-intrinsic-b
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1472
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1472
 
-***
+---
 
 ### containIntrinsicHeight?
 
@@ -3564,9 +3564,9 @@ https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-height
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1486
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1486
 
-***
+---
 
 ### containIntrinsicInlineSize?
 
@@ -3592,9 +3592,9 @@ https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-contain-intrinsic-i
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1500
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1500
 
-***
+---
 
 ### containIntrinsicSize?
 
@@ -3618,9 +3618,9 @@ https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5584
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5584
 
-***
+---
 
 ### containIntrinsicWidth?
 
@@ -3646,9 +3646,9 @@ https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1514
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1514
 
-***
+---
 
 ### container?
 
@@ -3672,9 +3672,9 @@ https://developer.mozilla.org/docs/Web/CSS/container
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5596
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5596
 
-***
+---
 
 ### containerName?
 
@@ -3704,9 +3704,9 @@ https://developer.mozilla.org/docs/Web/CSS/container-name
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1528
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1528
 
-***
+---
 
 ### containerType?
 
@@ -3732,9 +3732,9 @@ https://developer.mozilla.org/docs/Web/CSS/container-type
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1542
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1542
 
-***
+---
 
 ### content?
 
@@ -3760,9 +3760,9 @@ https://developer.mozilla.org/docs/Web/CSS/content
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1556
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1556
 
-***
+---
 
 ### contentVisibility?
 
@@ -3788,9 +3788,9 @@ https://developer.mozilla.org/docs/Web/CSS/content-visibility
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1570
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1570
 
-***
+---
 
 ### counterIncrement?
 
@@ -3816,9 +3816,9 @@ https://developer.mozilla.org/docs/Web/CSS/counter-increment
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1584
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1584
 
-***
+---
 
 ### counterReset?
 
@@ -3844,9 +3844,9 @@ https://developer.mozilla.org/docs/Web/CSS/counter-reset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1598
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1598
 
-***
+---
 
 ### counterSet?
 
@@ -3872,9 +3872,9 @@ https://developer.mozilla.org/docs/Web/CSS/counter-set
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1612
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1612
 
-***
+---
 
 ### cursor?
 
@@ -3900,9 +3900,9 @@ https://developer.mozilla.org/docs/Web/CSS/cursor
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1626
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1626
 
-***
+---
 
 ### direction?
 
@@ -3928,9 +3928,9 @@ https://developer.mozilla.org/docs/Web/CSS/direction
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1640
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1640
 
-***
+---
 
 ### display?
 
@@ -3956,9 +3956,9 @@ https://developer.mozilla.org/docs/Web/CSS/display
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1654
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1654
 
-***
+---
 
 ### emptyCells?
 
@@ -3984,9 +3984,9 @@ https://developer.mozilla.org/docs/Web/CSS/empty-cells
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1668
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1668
 
-***
+---
 
 ### filter?
 
@@ -4013,9 +4013,9 @@ https://developer.mozilla.org/docs/Web/CSS/filter
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1683
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1683
 
-***
+---
 
 ### flex?
 
@@ -4040,9 +4040,9 @@ https://developer.mozilla.org/docs/Web/CSS/flex
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5609
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5609
 
-***
+---
 
 ### flexBasis?
 
@@ -4069,9 +4069,9 @@ https://developer.mozilla.org/docs/Web/CSS/flex-basis
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1698
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1698
 
-***
+---
 
 ### flexDirection?
 
@@ -4098,9 +4098,9 @@ https://developer.mozilla.org/docs/Web/CSS/flex-direction
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1713
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1713
 
-***
+---
 
 ### flexFlow?
 
@@ -4125,9 +4125,9 @@ https://developer.mozilla.org/docs/Web/CSS/flex-flow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5622
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5622
 
-***
+---
 
 ### flexGrow?
 
@@ -4154,9 +4154,9 @@ https://developer.mozilla.org/docs/Web/CSS/flex-grow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1728
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1728
 
-***
+---
 
 ### flexShrink?
 
@@ -4183,9 +4183,9 @@ https://developer.mozilla.org/docs/Web/CSS/flex-shrink
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1743
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1743
 
-***
+---
 
 ### flexWrap?
 
@@ -4212,9 +4212,9 @@ https://developer.mozilla.org/docs/Web/CSS/flex-wrap
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1758
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1758
 
-***
+---
 
 ### float?
 
@@ -4240,9 +4240,9 @@ https://developer.mozilla.org/docs/Web/CSS/float
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1772
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1772
 
-***
+---
 
 ### font?
 
@@ -4266,9 +4266,9 @@ https://developer.mozilla.org/docs/Web/CSS/font
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5634
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5634
 
-***
+---
 
 ### fontFamily?
 
@@ -4294,9 +4294,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-family
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1786
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1786
 
-***
+---
 
 ### fontFeatureSettings?
 
@@ -4323,9 +4323,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-feature-settings
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1801
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1801
 
-***
+---
 
 ### fontKerning?
 
@@ -4352,9 +4352,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-kerning
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1816
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1816
 
-***
+---
 
 ### fontLanguageOverride?
 
@@ -4381,9 +4381,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-language-override
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1831
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1831
 
-***
+---
 
 ### fontOpticalSizing?
 
@@ -4409,9 +4409,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-optical-sizing
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1845
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1845
 
-***
+---
 
 ### fontPalette?
 
@@ -4435,9 +4435,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-palette
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1857
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1857
 
-***
+---
 
 ### fontSize?
 
@@ -4463,9 +4463,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1871
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1871
 
-***
+---
 
 ### fontSizeAdjust?
 
@@ -4491,9 +4491,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-size-adjust
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1885
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1885
 
-***
+---
 
 ### fontSmooth?
 
@@ -4519,9 +4519,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-smooth
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1899
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1899
 
-***
+---
 
 ### fontStretch?
 
@@ -4547,9 +4547,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-stretch
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1913
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1913
 
-***
+---
 
 ### fontStyle?
 
@@ -4575,9 +4575,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1927
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1927
 
-***
+---
 
 ### fontSynthesis?
 
@@ -4603,9 +4603,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-synthesis
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1941
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1941
 
-***
+---
 
 ### fontSynthesisPosition?
 
@@ -4631,9 +4631,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-synthesis-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1955
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1955
 
-***
+---
 
 ### fontSynthesisSmallCaps?
 
@@ -4659,9 +4659,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-synthesis-small-caps
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1969
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1969
 
-***
+---
 
 ### fontSynthesisStyle?
 
@@ -4687,9 +4687,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-synthesis-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1983
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1983
 
-***
+---
 
 ### fontSynthesisWeight?
 
@@ -4715,9 +4715,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-synthesis-weight
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:1997
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:1997
 
-***
+---
 
 ### fontVariant?
 
@@ -4743,9 +4743,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2011
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2011
 
-***
+---
 
 ### fontVariantAlternates?
 
@@ -4771,9 +4771,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant-alternates
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2025
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2025
 
-***
+---
 
 ### fontVariantCaps?
 
@@ -4799,9 +4799,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant-caps
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2039
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2039
 
-***
+---
 
 ### fontVariantEastAsian?
 
@@ -4827,9 +4827,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant-east-asian
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2053
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2053
 
-***
+---
 
 ### fontVariantEmoji?
 
@@ -4853,9 +4853,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant-emoji
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2065
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2065
 
-***
+---
 
 ### fontVariantLigatures?
 
@@ -4882,9 +4882,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant-ligatures
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2080
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2080
 
-***
+---
 
 ### fontVariantNumeric?
 
@@ -4910,9 +4910,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant-numeric
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2094
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2094
 
-***
+---
 
 ### fontVariantPosition?
 
@@ -4938,9 +4938,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variant-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2108
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2108
 
-***
+---
 
 ### fontVariationSettings?
 
@@ -4966,9 +4966,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-variation-settings
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2122
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2122
 
-***
+---
 
 ### fontWeight?
 
@@ -4994,9 +4994,9 @@ https://developer.mozilla.org/docs/Web/CSS/font-weight
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2136
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2136
 
-***
+---
 
 ### forcedColorAdjust?
 
@@ -5023,9 +5023,9 @@ https://developer.mozilla.org/docs/Web/CSS/forced-color-adjust
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2151
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2151
 
-***
+---
 
 ### gap?
 
@@ -5049,9 +5049,9 @@ https://developer.mozilla.org/docs/Web/CSS/gap
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5646
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5646
 
-***
+---
 
 ### grid?
 
@@ -5075,9 +5075,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5658
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5658
 
-***
+---
 
 ### gridArea?
 
@@ -5101,9 +5101,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-area
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5670
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5670
 
-***
+---
 
 ### gridAutoColumns?
 
@@ -5129,9 +5129,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-auto-columns
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2165
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2165
 
-***
+---
 
 ### gridAutoFlow?
 
@@ -5157,9 +5157,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-auto-flow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2179
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2179
 
-***
+---
 
 ### gridAutoRows?
 
@@ -5185,9 +5185,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-auto-rows
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2193
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2193
 
-***
+---
 
 ### gridColumn?
 
@@ -5211,9 +5211,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-column
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5682
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5682
 
-***
+---
 
 ### gridColumnEnd?
 
@@ -5239,9 +5239,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-column-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2207
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2207
 
-***
+---
 
 ### gridColumnStart?
 
@@ -5267,9 +5267,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-column-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2221
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2221
 
-***
+---
 
 ### gridRow?
 
@@ -5293,9 +5293,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-row
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5694
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5694
 
-***
+---
 
 ### gridRowEnd?
 
@@ -5321,9 +5321,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-row-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2235
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2235
 
-***
+---
 
 ### gridRowStart?
 
@@ -5349,9 +5349,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-row-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2249
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2249
 
-***
+---
 
 ### gridTemplate?
 
@@ -5375,9 +5375,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-template
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5706
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5706
 
-***
+---
 
 ### gridTemplateAreas?
 
@@ -5403,9 +5403,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-template-areas
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2263
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2263
 
-***
+---
 
 ### gridTemplateColumns?
 
@@ -5431,9 +5431,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-template-columns
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2277
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2277
 
-***
+---
 
 ### gridTemplateRows?
 
@@ -5459,9 +5459,9 @@ https://developer.mozilla.org/docs/Web/CSS/grid-template-rows
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2291
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2291
 
-***
+---
 
 ### hangingPunctuation?
 
@@ -5487,9 +5487,9 @@ https://developer.mozilla.org/docs/Web/CSS/hanging-punctuation
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2305
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2305
 
-***
+---
 
 ### height?
 
@@ -5515,9 +5515,9 @@ https://developer.mozilla.org/docs/Web/CSS/height
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2319
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2319
 
-***
+---
 
 ### hyphenateCharacter?
 
@@ -5544,9 +5544,9 @@ https://developer.mozilla.org/docs/Web/CSS/hyphenate-character
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2334
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2334
 
-***
+---
 
 ### hyphenateLimitChars?
 
@@ -5568,9 +5568,9 @@ The **`hyphenate-limit-chars`** CSS property specifies the minimum word length t
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2346
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2346
 
-***
+---
 
 ### hyphens?
 
@@ -5597,9 +5597,9 @@ https://developer.mozilla.org/docs/Web/CSS/hyphens
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2361
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2361
 
-***
+---
 
 ### imageOrientation?
 
@@ -5625,9 +5625,9 @@ https://developer.mozilla.org/docs/Web/CSS/image-orientation
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2375
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2375
 
-***
+---
 
 ### imageRendering?
 
@@ -5653,9 +5653,9 @@ https://developer.mozilla.org/docs/Web/CSS/image-rendering
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2389
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2389
 
-***
+---
 
 ### imageResolution?
 
@@ -5671,9 +5671,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2389
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2395
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2395
 
-***
+---
 
 ### initialLetter?
 
@@ -5699,9 +5699,9 @@ https://developer.mozilla.org/docs/Web/CSS/initial-letter
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2409
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2409
 
-***
+---
 
 ### inlineSize?
 
@@ -5727,9 +5727,9 @@ https://developer.mozilla.org/docs/Web/CSS/inline-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2423
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2423
 
-***
+---
 
 ### inputSecurity?
 
@@ -5745,9 +5745,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2423
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2429
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2429
 
-***
+---
 
 ### inset?
 
@@ -5771,9 +5771,9 @@ https://developer.mozilla.org/docs/Web/CSS/inset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5718
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5718
 
-***
+---
 
 ### insetBlock?
 
@@ -5797,9 +5797,9 @@ https://developer.mozilla.org/docs/Web/CSS/inset-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5730
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5730
 
-***
+---
 
 ### insetBlockEnd?
 
@@ -5825,9 +5825,9 @@ https://developer.mozilla.org/docs/Web/CSS/inset-block-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2443
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2443
 
-***
+---
 
 ### insetBlockStart?
 
@@ -5853,9 +5853,9 @@ https://developer.mozilla.org/docs/Web/CSS/inset-block-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2457
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2457
 
-***
+---
 
 ### insetInline?
 
@@ -5879,9 +5879,9 @@ https://developer.mozilla.org/docs/Web/CSS/inset-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5742
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5742
 
-***
+---
 
 ### insetInlineEnd?
 
@@ -5907,9 +5907,9 @@ https://developer.mozilla.org/docs/Web/CSS/inset-inline-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2471
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2471
 
-***
+---
 
 ### insetInlineStart?
 
@@ -5935,9 +5935,9 @@ https://developer.mozilla.org/docs/Web/CSS/inset-inline-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2485
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2485
 
-***
+---
 
 ### isolation?
 
@@ -5963,9 +5963,9 @@ https://developer.mozilla.org/docs/Web/CSS/isolation
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2499
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2499
 
-***
+---
 
 ### justifyContent?
 
@@ -5992,9 +5992,9 @@ https://developer.mozilla.org/docs/Web/CSS/justify-content
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2514
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2514
 
-***
+---
 
 ### justifyItems?
 
@@ -6020,9 +6020,9 @@ https://developer.mozilla.org/docs/Web/CSS/justify-items
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2528
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2528
 
-***
+---
 
 ### justifySelf?
 
@@ -6048,9 +6048,9 @@ https://developer.mozilla.org/docs/Web/CSS/justify-self
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2542
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2542
 
-***
+---
 
 ### justifyTracks?
 
@@ -6076,9 +6076,9 @@ https://developer.mozilla.org/docs/Web/CSS/justify-tracks
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2556
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2556
 
-***
+---
 
 ### left?
 
@@ -6104,9 +6104,9 @@ https://developer.mozilla.org/docs/Web/CSS/left
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2570
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2570
 
-***
+---
 
 ### letterSpacing?
 
@@ -6132,9 +6132,9 @@ https://developer.mozilla.org/docs/Web/CSS/letter-spacing
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2584
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2584
 
-***
+---
 
 ### lineBreak?
 
@@ -6161,9 +6161,9 @@ https://developer.mozilla.org/docs/Web/CSS/line-break
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2599
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2599
 
-***
+---
 
 ### lineClamp?
 
@@ -6179,9 +6179,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2599
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5748
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5748
 
-***
+---
 
 ### lineHeight?
 
@@ -6207,9 +6207,9 @@ https://developer.mozilla.org/docs/Web/CSS/line-height
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2613
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2613
 
-***
+---
 
 ### lineHeightStep?
 
@@ -6235,9 +6235,9 @@ https://developer.mozilla.org/docs/Web/CSS/line-height-step
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2627
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2627
 
-***
+---
 
 ### listStyle?
 
@@ -6261,9 +6261,9 @@ https://developer.mozilla.org/docs/Web/CSS/list-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5760
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5760
 
-***
+---
 
 ### listStyleImage?
 
@@ -6289,9 +6289,9 @@ https://developer.mozilla.org/docs/Web/CSS/list-style-image
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2641
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2641
 
-***
+---
 
 ### listStylePosition?
 
@@ -6317,9 +6317,9 @@ https://developer.mozilla.org/docs/Web/CSS/list-style-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2655
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2655
 
-***
+---
 
 ### listStyleType?
 
@@ -6345,9 +6345,9 @@ https://developer.mozilla.org/docs/Web/CSS/list-style-type
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2669
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2669
 
-***
+---
 
 ### margin?
 
@@ -6371,9 +6371,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5772
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5772
 
-***
+---
 
 ### marginBlock?
 
@@ -6397,9 +6397,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5784
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5784
 
-***
+---
 
 ### marginBlockEnd?
 
@@ -6425,9 +6425,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-block-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2683
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2683
 
-***
+---
 
 ### marginBlockStart?
 
@@ -6453,9 +6453,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-block-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2697
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2697
 
-***
+---
 
 ### marginBottom?
 
@@ -6481,9 +6481,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-bottom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2711
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2711
 
-***
+---
 
 ### marginInline?
 
@@ -6507,9 +6507,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5796
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5796
 
-***
+---
 
 ### marginInlineEnd?
 
@@ -6536,9 +6536,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-inline-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2726
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2726
 
-***
+---
 
 ### marginInlineStart?
 
@@ -6565,9 +6565,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-inline-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2741
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2741
 
-***
+---
 
 ### marginLeft?
 
@@ -6593,9 +6593,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-left
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2755
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2755
 
-***
+---
 
 ### marginRight?
 
@@ -6621,9 +6621,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-right
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2769
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2769
 
-***
+---
 
 ### marginTop?
 
@@ -6649,9 +6649,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-top
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2783
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2783
 
-***
+---
 
 ### marginTrim?
 
@@ -6677,9 +6677,9 @@ https://developer.mozilla.org/docs/Web/CSS/margin-trim
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2797
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2797
 
-***
+---
 
 ### mask?
 
@@ -6704,9 +6704,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5809
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5809
 
-***
+---
 
 ### maskBorder?
 
@@ -6731,9 +6731,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-border
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5822
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5822
 
-***
+---
 
 ### maskBorderMode?
 
@@ -6751,9 +6751,9 @@ The **`mask-border-mode`** CSS property specifies the blending mode used in a ma
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2805
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2805
 
-***
+---
 
 ### maskBorderOutset?
 
@@ -6780,9 +6780,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-border-outset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2820
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2820
 
-***
+---
 
 ### maskBorderRepeat?
 
@@ -6809,9 +6809,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-border-repeat
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2835
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2835
 
-***
+---
 
 ### maskBorderSlice?
 
@@ -6838,9 +6838,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-border-slice
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2850
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2850
 
-***
+---
 
 ### maskBorderSource?
 
@@ -6867,9 +6867,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-border-source
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2865
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2865
 
-***
+---
 
 ### maskBorderWidth?
 
@@ -6896,9 +6896,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-border-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2880
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2880
 
-***
+---
 
 ### maskClip?
 
@@ -6925,9 +6925,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-clip
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2895
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2895
 
-***
+---
 
 ### maskComposite?
 
@@ -6953,9 +6953,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-composite
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2909
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2909
 
-***
+---
 
 ### maskImage?
 
@@ -6982,9 +6982,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-image
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2924
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2924
 
-***
+---
 
 ### maskMode?
 
@@ -7010,9 +7010,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-mode
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2938
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2938
 
-***
+---
 
 ### maskOrigin?
 
@@ -7039,9 +7039,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-origin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2953
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2953
 
-***
+---
 
 ### maskPosition?
 
@@ -7068,9 +7068,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2968
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2968
 
-***
+---
 
 ### maskRepeat?
 
@@ -7097,9 +7097,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-repeat
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2983
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2983
 
-***
+---
 
 ### maskSize?
 
@@ -7126,9 +7126,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:2998
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:2998
 
-***
+---
 
 ### maskType?
 
@@ -7154,9 +7154,9 @@ https://developer.mozilla.org/docs/Web/CSS/mask-type
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3012
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3012
 
-***
+---
 
 ### masonryAutoFlow?
 
@@ -7182,9 +7182,9 @@ https://developer.mozilla.org/docs/Web/CSS/masonry-auto-flow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3026
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3026
 
-***
+---
 
 ### mathDepth?
 
@@ -7210,9 +7210,9 @@ https://developer.mozilla.org/docs/Web/CSS/math-depth
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3040
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3040
 
-***
+---
 
 ### mathShift?
 
@@ -7238,9 +7238,9 @@ https://developer.mozilla.org/docs/Web/CSS/math-shift
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3054
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3054
 
-***
+---
 
 ### mathStyle?
 
@@ -7266,9 +7266,9 @@ https://developer.mozilla.org/docs/Web/CSS/math-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3068
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3068
 
-***
+---
 
 ### maxBlockSize?
 
@@ -7294,9 +7294,9 @@ https://developer.mozilla.org/docs/Web/CSS/max-block-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3082
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3082
 
-***
+---
 
 ### maxHeight?
 
@@ -7322,9 +7322,9 @@ https://developer.mozilla.org/docs/Web/CSS/max-height
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3096
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3096
 
-***
+---
 
 ### maxInlineSize?
 
@@ -7351,9 +7351,9 @@ https://developer.mozilla.org/docs/Web/CSS/max-inline-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3111
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3111
 
-***
+---
 
 ### maxLines?
 
@@ -7369,9 +7369,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3111
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3117
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3117
 
-***
+---
 
 ### maxWidth?
 
@@ -7397,9 +7397,9 @@ https://developer.mozilla.org/docs/Web/CSS/max-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3131
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3131
 
-***
+---
 
 ### minBlockSize?
 
@@ -7425,9 +7425,9 @@ https://developer.mozilla.org/docs/Web/CSS/min-block-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3145
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3145
 
-***
+---
 
 ### minHeight?
 
@@ -7453,9 +7453,9 @@ https://developer.mozilla.org/docs/Web/CSS/min-height
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3159
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3159
 
-***
+---
 
 ### minInlineSize?
 
@@ -7481,9 +7481,9 @@ https://developer.mozilla.org/docs/Web/CSS/min-inline-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3173
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3173
 
-***
+---
 
 ### minWidth?
 
@@ -7509,9 +7509,9 @@ https://developer.mozilla.org/docs/Web/CSS/min-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3187
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3187
 
-***
+---
 
 ### mixBlendMode?
 
@@ -7537,9 +7537,9 @@ https://developer.mozilla.org/docs/Web/CSS/mix-blend-mode
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3201
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3201
 
-***
+---
 
 ### motion?
 
@@ -7564,9 +7564,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5835
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5835
 
-***
+---
 
 ### motionDistance?
 
@@ -7593,9 +7593,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-distance
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3216
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3216
 
-***
+---
 
 ### motionPath?
 
@@ -7622,9 +7622,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-path
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3231
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3231
 
-***
+---
 
 ### motionRotation?
 
@@ -7651,9 +7651,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-rotate
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3246
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3246
 
-***
+---
 
 ### objectFit?
 
@@ -7679,9 +7679,9 @@ https://developer.mozilla.org/docs/Web/CSS/object-fit
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3260
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3260
 
-***
+---
 
 ### objectPosition?
 
@@ -7707,9 +7707,9 @@ https://developer.mozilla.org/docs/Web/CSS/object-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3274
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3274
 
-***
+---
 
 ### offset?
 
@@ -7734,9 +7734,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5848
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5848
 
-***
+---
 
 ### offsetAnchor?
 
@@ -7760,9 +7760,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-anchor
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3286
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3286
 
-***
+---
 
 ### offsetDistance?
 
@@ -7789,9 +7789,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-distance
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3301
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3301
 
-***
+---
 
 ### offsetPath?
 
@@ -7818,9 +7818,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-path
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3316
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3316
 
-***
+---
 
 ### offsetPosition?
 
@@ -7844,9 +7844,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3328
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3328
 
-***
+---
 
 ### offsetRotate?
 
@@ -7873,9 +7873,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-rotate
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3343
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3343
 
-***
+---
 
 ### offsetRotation?
 
@@ -7902,9 +7902,9 @@ https://developer.mozilla.org/docs/Web/CSS/offset-rotate
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3358
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3358
 
-***
+---
 
 ### opacity?
 
@@ -7930,9 +7930,9 @@ https://developer.mozilla.org/docs/Web/CSS/opacity
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3372
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3372
 
-***
+---
 
 ### order?
 
@@ -7959,9 +7959,9 @@ https://developer.mozilla.org/docs/Web/CSS/order
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3387
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3387
 
-***
+---
 
 ### orphans?
 
@@ -7987,9 +7987,9 @@ https://developer.mozilla.org/docs/Web/CSS/orphans
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3401
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3401
 
-***
+---
 
 ### outline?
 
@@ -8013,9 +8013,9 @@ https://developer.mozilla.org/docs/Web/CSS/outline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5860
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5860
 
-***
+---
 
 ### outlineColor?
 
@@ -8041,9 +8041,9 @@ https://developer.mozilla.org/docs/Web/CSS/outline-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3415
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3415
 
-***
+---
 
 ### outlineOffset?
 
@@ -8069,9 +8069,9 @@ https://developer.mozilla.org/docs/Web/CSS/outline-offset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3429
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3429
 
-***
+---
 
 ### outlineStyle?
 
@@ -8097,9 +8097,9 @@ https://developer.mozilla.org/docs/Web/CSS/outline-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3443
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3443
 
-***
+---
 
 ### outlineWidth?
 
@@ -8125,9 +8125,9 @@ https://developer.mozilla.org/docs/Web/CSS/outline-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3457
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3457
 
-***
+---
 
 ### overflow?
 
@@ -8153,9 +8153,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5874
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5874
 
-***
+---
 
 ### overflowAnchor?
 
@@ -8179,9 +8179,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow-anchor
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3469
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3469
 
-***
+---
 
 ### overflowBlock?
 
@@ -8205,9 +8205,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3481
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3481
 
-***
+---
 
 ### overflowClipBox?
 
@@ -8225,9 +8225,9 @@ The **`overflow-clip-box`** CSS property specifies relative to which box the cli
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3489
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3489
 
-***
+---
 
 ### overflowClipMargin?
 
@@ -8251,9 +8251,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow-clip-margin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3501
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3501
 
-***
+---
 
 ### overflowInline?
 
@@ -8277,9 +8277,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3513
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3513
 
-***
+---
 
 ### overflowWrap?
 
@@ -8306,9 +8306,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow-wrap
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3528
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3528
 
-***
+---
 
 ### overflowX?
 
@@ -8334,9 +8334,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow-x
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3542
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3542
 
-***
+---
 
 ### overflowY?
 
@@ -8362,9 +8362,9 @@ https://developer.mozilla.org/docs/Web/CSS/overflow-y
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3556
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3556
 
-***
+---
 
 ### overlay?
 
@@ -8390,9 +8390,9 @@ https://developer.mozilla.org/docs/Web/CSS/overlay
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3570
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3570
 
-***
+---
 
 ### overscrollBehavior?
 
@@ -8418,9 +8418,9 @@ https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5888
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5888
 
-***
+---
 
 ### overscrollBehaviorBlock?
 
@@ -8446,9 +8446,9 @@ https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3584
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3584
 
-***
+---
 
 ### overscrollBehaviorInline?
 
@@ -8474,9 +8474,9 @@ https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3598
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3598
 
-***
+---
 
 ### overscrollBehaviorX?
 
@@ -8502,9 +8502,9 @@ https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-x
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3612
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3612
 
-***
+---
 
 ### overscrollBehaviorY?
 
@@ -8530,9 +8530,9 @@ https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-y
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3626
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3626
 
-***
+---
 
 ### padding?
 
@@ -8556,9 +8556,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5900
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5900
 
-***
+---
 
 ### paddingBlock?
 
@@ -8582,9 +8582,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5912
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5912
 
-***
+---
 
 ### paddingBlockEnd?
 
@@ -8610,9 +8610,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-block-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3640
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3640
 
-***
+---
 
 ### paddingBlockStart?
 
@@ -8638,9 +8638,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-block-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3654
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3654
 
-***
+---
 
 ### paddingBottom?
 
@@ -8666,9 +8666,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-bottom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3668
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3668
 
-***
+---
 
 ### paddingInline?
 
@@ -8692,9 +8692,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5924
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5924
 
-***
+---
 
 ### paddingInlineEnd?
 
@@ -8721,9 +8721,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-inline-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3683
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3683
 
-***
+---
 
 ### paddingInlineStart?
 
@@ -8750,9 +8750,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-inline-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3698
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3698
 
-***
+---
 
 ### paddingLeft?
 
@@ -8778,9 +8778,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-left
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3712
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3712
 
-***
+---
 
 ### paddingRight?
 
@@ -8806,9 +8806,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-right
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3726
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3726
 
-***
+---
 
 ### paddingTop?
 
@@ -8834,9 +8834,9 @@ https://developer.mozilla.org/docs/Web/CSS/padding-top
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3740
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3740
 
-***
+---
 
 ### page?
 
@@ -8862,9 +8862,9 @@ https://developer.mozilla.org/docs/Web/CSS/page
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3754
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3754
 
-***
+---
 
 ### pageBreakAfter?
 
@@ -8890,9 +8890,9 @@ https://developer.mozilla.org/docs/Web/CSS/page-break-after
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3768
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3768
 
-***
+---
 
 ### pageBreakBefore?
 
@@ -8918,9 +8918,9 @@ https://developer.mozilla.org/docs/Web/CSS/page-break-before
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3782
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3782
 
-***
+---
 
 ### pageBreakInside?
 
@@ -8946,9 +8946,9 @@ https://developer.mozilla.org/docs/Web/CSS/page-break-inside
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3796
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3796
 
-***
+---
 
 ### paintOrder?
 
@@ -8974,9 +8974,9 @@ https://developer.mozilla.org/docs/Web/CSS/paint-order
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3810
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3810
 
-***
+---
 
 ### perspective?
 
@@ -9003,9 +9003,9 @@ https://developer.mozilla.org/docs/Web/CSS/perspective
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3825
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3825
 
-***
+---
 
 ### perspectiveOrigin?
 
@@ -9032,9 +9032,9 @@ https://developer.mozilla.org/docs/Web/CSS/perspective-origin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3840
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3840
 
-***
+---
 
 ### placeContent?
 
@@ -9058,9 +9058,9 @@ https://developer.mozilla.org/docs/Web/CSS/place-content
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5936
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5936
 
-***
+---
 
 ### placeItems?
 
@@ -9084,9 +9084,9 @@ https://developer.mozilla.org/docs/Web/CSS/place-items
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5948
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5948
 
-***
+---
 
 ### placeSelf?
 
@@ -9110,9 +9110,9 @@ https://developer.mozilla.org/docs/Web/CSS/place-self
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5960
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5960
 
-***
+---
 
 ### pointerEvents?
 
@@ -9138,9 +9138,9 @@ https://developer.mozilla.org/docs/Web/CSS/pointer-events
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3854
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3854
 
-***
+---
 
 ### position?
 
@@ -9166,9 +9166,9 @@ https://developer.mozilla.org/docs/Web/CSS/position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3868
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3868
 
-***
+---
 
 ### printColorAdjust?
 
@@ -9195,9 +9195,9 @@ https://developer.mozilla.org/docs/Web/CSS/print-color-adjust
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3883
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3883
 
-***
+---
 
 ### quotes?
 
@@ -9223,9 +9223,9 @@ https://developer.mozilla.org/docs/Web/CSS/quotes
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3897
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3897
 
-***
+---
 
 ### resize?
 
@@ -9251,9 +9251,9 @@ https://developer.mozilla.org/docs/Web/CSS/resize
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3911
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3911
 
-***
+---
 
 ### right?
 
@@ -9279,9 +9279,9 @@ https://developer.mozilla.org/docs/Web/CSS/right
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3925
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3925
 
-***
+---
 
 ### rotate?
 
@@ -9307,9 +9307,9 @@ https://developer.mozilla.org/docs/Web/CSS/rotate
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3939
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3939
 
-***
+---
 
 ### rowGap?
 
@@ -9335,9 +9335,9 @@ https://developer.mozilla.org/docs/Web/CSS/row-gap
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3953
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3953
 
-***
+---
 
 ### rubyAlign?
 
@@ -9363,9 +9363,9 @@ https://developer.mozilla.org/docs/Web/CSS/ruby-align
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3967
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3967
 
-***
+---
 
 ### rubyMerge?
 
@@ -9381,9 +9381,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3967
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3973
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3973
 
-***
+---
 
 ### rubyPosition?
 
@@ -9410,9 +9410,9 @@ https://developer.mozilla.org/docs/Web/CSS/ruby-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:3988
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:3988
 
-***
+---
 
 ### scale?
 
@@ -9438,9 +9438,9 @@ https://developer.mozilla.org/docs/Web/CSS/scale
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4002
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4002
 
-***
+---
 
 ### scrollBehavior?
 
@@ -9466,9 +9466,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-behavior
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4016
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4016
 
-***
+---
 
 ### scrollMargin?
 
@@ -9493,9 +9493,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5973
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5973
 
-***
+---
 
 ### scrollMarginBlock?
 
@@ -9519,9 +9519,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5985
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5985
 
-***
+---
 
 ### scrollMarginBlockEnd?
 
@@ -9547,9 +9547,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-block-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4030
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4030
 
-***
+---
 
 ### scrollMarginBlockStart?
 
@@ -9575,9 +9575,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-block-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4044
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4044
 
-***
+---
 
 ### scrollMarginBottom?
 
@@ -9604,9 +9604,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-bottom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4059
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4059
 
-***
+---
 
 ### scrollMarginInline?
 
@@ -9630,9 +9630,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5997
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5997
 
-***
+---
 
 ### scrollMarginInlineEnd?
 
@@ -9658,9 +9658,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-inline-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4073
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4073
 
-***
+---
 
 ### scrollMarginInlineStart?
 
@@ -9686,9 +9686,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-inline-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4087
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4087
 
-***
+---
 
 ### scrollMarginLeft?
 
@@ -9715,9 +9715,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-left
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4102
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4102
 
-***
+---
 
 ### scrollMarginRight?
 
@@ -9744,9 +9744,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-right
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4117
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4117
 
-***
+---
 
 ### scrollMarginTop?
 
@@ -9773,9 +9773,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-top
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4132
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4132
 
-***
+---
 
 ### scrollPadding?
 
@@ -9799,9 +9799,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6009
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6009
 
-***
+---
 
 ### scrollPaddingBlock?
 
@@ -9825,9 +9825,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-block
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6021
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6021
 
-***
+---
 
 ### scrollPaddingBlockEnd?
 
@@ -9853,9 +9853,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-block-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4146
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4146
 
-***
+---
 
 ### scrollPaddingBlockStart?
 
@@ -9881,9 +9881,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-block-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4160
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4160
 
-***
+---
 
 ### scrollPaddingBottom?
 
@@ -9909,9 +9909,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-bottom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4174
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4174
 
-***
+---
 
 ### scrollPaddingInline?
 
@@ -9935,9 +9935,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-inline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6033
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6033
 
-***
+---
 
 ### scrollPaddingInlineEnd?
 
@@ -9963,9 +9963,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-inline-end
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4188
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4188
 
-***
+---
 
 ### scrollPaddingInlineStart?
 
@@ -9991,9 +9991,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-inline-start
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4202
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4202
 
-***
+---
 
 ### scrollPaddingLeft?
 
@@ -10019,9 +10019,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-left
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4216
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4216
 
-***
+---
 
 ### scrollPaddingRight?
 
@@ -10047,9 +10047,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-right
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4230
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4230
 
-***
+---
 
 ### scrollPaddingTop?
 
@@ -10075,9 +10075,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-padding-top
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4244
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4244
 
-***
+---
 
 ### scrollSnapAlign?
 
@@ -10103,9 +10103,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-snap-align
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4258
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4258
 
-***
+---
 
 ### scrollSnapMargin?
 
@@ -10130,9 +10130,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6046
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6046
 
-***
+---
 
 ### scrollSnapMarginBottom?
 
@@ -10159,9 +10159,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-bottom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4273
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4273
 
-***
+---
 
 ### scrollSnapMarginLeft?
 
@@ -10188,9 +10188,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-left
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4288
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4288
 
-***
+---
 
 ### scrollSnapMarginRight?
 
@@ -10217,9 +10217,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-right
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4303
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4303
 
-***
+---
 
 ### scrollSnapMarginTop?
 
@@ -10246,9 +10246,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-margin-top
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4318
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4318
 
-***
+---
 
 ### scrollSnapStop?
 
@@ -10274,9 +10274,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-snap-stop
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4332
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4332
 
-***
+---
 
 ### scrollSnapType?
 
@@ -10303,9 +10303,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-snap-type
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4347
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4347
 
-***
+---
 
 ### scrollTimeline?
 
@@ -10329,9 +10329,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-timeline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6058
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6058
 
-***
+---
 
 ### scrollTimelineAxis?
 
@@ -10357,9 +10357,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-axis
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4361
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4361
 
-***
+---
 
 ### scrollTimelineName?
 
@@ -10385,9 +10385,9 @@ https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-name
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4375
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4375
 
-***
+---
 
 ### scrollbarColor?
 
@@ -10413,9 +10413,9 @@ https://developer.mozilla.org/docs/Web/CSS/scrollbar-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4389
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4389
 
-***
+---
 
 ### scrollbarGutter?
 
@@ -10441,9 +10441,9 @@ https://developer.mozilla.org/docs/Web/CSS/scrollbar-gutter
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4403
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4403
 
-***
+---
 
 ### scrollbarWidth?
 
@@ -10469,9 +10469,9 @@ https://developer.mozilla.org/docs/Web/CSS/scrollbar-width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4417
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4417
 
-***
+---
 
 ### shapeImageThreshold?
 
@@ -10497,9 +10497,9 @@ https://developer.mozilla.org/docs/Web/CSS/shape-image-threshold
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4431
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4431
 
-***
+---
 
 ### shapeMargin?
 
@@ -10525,9 +10525,9 @@ https://developer.mozilla.org/docs/Web/CSS/shape-margin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4445
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4445
 
-***
+---
 
 ### shapeOutside?
 
@@ -10553,9 +10553,9 @@ https://developer.mozilla.org/docs/Web/CSS/shape-outside
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4459
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4459
 
-***
+---
 
 ### tabSize?
 
@@ -10582,9 +10582,9 @@ https://developer.mozilla.org/docs/Web/CSS/tab-size
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4474
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4474
 
-***
+---
 
 ### tableLayout?
 
@@ -10610,9 +10610,9 @@ https://developer.mozilla.org/docs/Web/CSS/table-layout
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4488
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4488
 
-***
+---
 
 ### textAlign?
 
@@ -10638,9 +10638,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-align
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4502
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4502
 
-***
+---
 
 ### textAlignLast?
 
@@ -10666,9 +10666,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-align-last
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4516
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4516
 
-***
+---
 
 ### textCombineUpright?
 
@@ -10695,9 +10695,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-combine-upright
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4531
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4531
 
-***
+---
 
 ### textDecoration?
 
@@ -10721,9 +10721,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-decoration
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6070
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6070
 
-***
+---
 
 ### textDecorationColor?
 
@@ -10750,9 +10750,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-decoration-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4546
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4546
 
-***
+---
 
 ### textDecorationLine?
 
@@ -10779,9 +10779,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-decoration-line
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4561
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4561
 
-***
+---
 
 ### textDecorationSkip?
 
@@ -10808,9 +10808,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-decoration-skip
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4576
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4576
 
-***
+---
 
 ### textDecorationSkipInk?
 
@@ -10836,9 +10836,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-decoration-skip-ink
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4590
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4590
 
-***
+---
 
 ### textDecorationStyle?
 
@@ -10865,9 +10865,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-decoration-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4605
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4605
 
-***
+---
 
 ### textDecorationThickness?
 
@@ -10893,9 +10893,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-decoration-thickness
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4619
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4619
 
-***
+---
 
 ### textEmphasis?
 
@@ -10920,9 +10920,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-emphasis
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6083
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6083
 
-***
+---
 
 ### textEmphasisColor?
 
@@ -10949,9 +10949,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-emphasis-color
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4634
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4634
 
-***
+---
 
 ### textEmphasisPosition?
 
@@ -10978,9 +10978,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-emphasis-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4649
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4649
 
-***
+---
 
 ### textEmphasisStyle?
 
@@ -11007,9 +11007,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-emphasis-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4664
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4664
 
-***
+---
 
 ### textIndent?
 
@@ -11035,9 +11035,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-indent
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4678
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4678
 
-***
+---
 
 ### textJustify?
 
@@ -11063,9 +11063,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-justify
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4692
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4692
 
-***
+---
 
 ### textOrientation?
 
@@ -11092,9 +11092,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-orientation
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4707
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4707
 
-***
+---
 
 ### textOverflow?
 
@@ -11120,9 +11120,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-overflow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4721
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4721
 
-***
+---
 
 ### textRendering?
 
@@ -11148,9 +11148,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-rendering
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4735
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4735
 
-***
+---
 
 ### textShadow?
 
@@ -11176,9 +11176,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-shadow
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4749
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4749
 
-***
+---
 
 ### textSizeAdjust?
 
@@ -11204,9 +11204,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-size-adjust
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4763
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4763
 
-***
+---
 
 ### textTransform?
 
@@ -11232,9 +11232,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-transform
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4777
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4777
 
-***
+---
 
 ### textUnderlineOffset?
 
@@ -11260,9 +11260,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-underline-offset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4791
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4791
 
-***
+---
 
 ### textUnderlinePosition?
 
@@ -11289,9 +11289,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-underline-position
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4806
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4806
 
-***
+---
 
 ### textWrap?
 
@@ -11317,9 +11317,9 @@ https://developer.mozilla.org/docs/Web/CSS/text-wrap
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4820
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4820
 
-***
+---
 
 ### timelineScope?
 
@@ -11345,9 +11345,9 @@ https://developer.mozilla.org/docs/Web/CSS/timeline-scope
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4834
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4834
 
-***
+---
 
 ### top?
 
@@ -11373,9 +11373,9 @@ https://developer.mozilla.org/docs/Web/CSS/top
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4848
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4848
 
-***
+---
 
 ### touchAction?
 
@@ -11402,9 +11402,9 @@ https://developer.mozilla.org/docs/Web/CSS/touch-action
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4863
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4863
 
-***
+---
 
 ### transform?
 
@@ -11431,9 +11431,9 @@ https://developer.mozilla.org/docs/Web/CSS/transform
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4878
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4878
 
-***
+---
 
 ### transformBox?
 
@@ -11459,9 +11459,9 @@ https://developer.mozilla.org/docs/Web/CSS/transform-box
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4892
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4892
 
-***
+---
 
 ### transformOrigin?
 
@@ -11488,9 +11488,9 @@ https://developer.mozilla.org/docs/Web/CSS/transform-origin
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4907
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4907
 
-***
+---
 
 ### transformStyle?
 
@@ -11517,9 +11517,9 @@ https://developer.mozilla.org/docs/Web/CSS/transform-style
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4922
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4922
 
-***
+---
 
 ### transition?
 
@@ -11544,9 +11544,9 @@ https://developer.mozilla.org/docs/Web/CSS/transition
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6096
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6096
 
-***
+---
 
 ### transitionBehavior?
 
@@ -11572,9 +11572,9 @@ https://developer.mozilla.org/docs/Web/CSS/transition-behavior
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4936
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4936
 
-***
+---
 
 ### transitionDelay?
 
@@ -11601,9 +11601,9 @@ https://developer.mozilla.org/docs/Web/CSS/transition-delay
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4951
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4951
 
-***
+---
 
 ### transitionDuration?
 
@@ -11630,9 +11630,9 @@ https://developer.mozilla.org/docs/Web/CSS/transition-duration
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4966
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4966
 
-***
+---
 
 ### transitionProperty?
 
@@ -11659,9 +11659,9 @@ https://developer.mozilla.org/docs/Web/CSS/transition-property
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4981
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4981
 
-***
+---
 
 ### transitionTimingFunction?
 
@@ -11688,9 +11688,9 @@ https://developer.mozilla.org/docs/Web/CSS/transition-timing-function
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:4996
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:4996
 
-***
+---
 
 ### translate?
 
@@ -11716,9 +11716,9 @@ https://developer.mozilla.org/docs/Web/CSS/translate
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5010
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5010
 
-***
+---
 
 ### unicodeBidi?
 
@@ -11744,9 +11744,9 @@ https://developer.mozilla.org/docs/Web/CSS/unicode-bidi
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5024
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5024
 
-***
+---
 
 ### userSelect?
 
@@ -11773,9 +11773,9 @@ https://developer.mozilla.org/docs/Web/CSS/user-select
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5039
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5039
 
-***
+---
 
 ### verticalAlign?
 
@@ -11801,9 +11801,9 @@ https://developer.mozilla.org/docs/Web/CSS/vertical-align
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5053
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5053
 
-***
+---
 
 ### viewTimeline?
 
@@ -11827,9 +11827,9 @@ https://developer.mozilla.org/docs/Web/CSS/view-timeline
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:6108
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:6108
 
-***
+---
 
 ### viewTimelineAxis?
 
@@ -11855,9 +11855,9 @@ https://developer.mozilla.org/docs/Web/CSS/view-timeline-axis
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5067
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5067
 
-***
+---
 
 ### viewTimelineInset?
 
@@ -11883,9 +11883,9 @@ https://developer.mozilla.org/docs/Web/CSS/view-timeline-inset
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5081
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5081
 
-***
+---
 
 ### viewTimelineName?
 
@@ -11911,9 +11911,9 @@ https://developer.mozilla.org/docs/Web/CSS/view-timeline-name
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5095
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5095
 
-***
+---
 
 ### viewTransitionName?
 
@@ -11939,9 +11939,9 @@ https://developer.mozilla.org/docs/Web/CSS/view-transition-name
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5109
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5109
 
-***
+---
 
 ### visibility?
 
@@ -11967,9 +11967,9 @@ https://developer.mozilla.org/docs/Web/CSS/visibility
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5123
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5123
 
-***
+---
 
 ### whiteSpace?
 
@@ -11995,9 +11995,9 @@ https://developer.mozilla.org/docs/Web/CSS/white-space
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5137
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5137
 
-***
+---
 
 ### whiteSpaceCollapse?
 
@@ -12023,9 +12023,9 @@ https://developer.mozilla.org/docs/Web/CSS/white-space-collapse
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5151
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5151
 
-***
+---
 
 ### whiteSpaceTrim?
 
@@ -12041,9 +12041,9 @@ node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5151
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5157
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5157
 
-***
+---
 
 ### widows?
 
@@ -12069,9 +12069,9 @@ https://developer.mozilla.org/docs/Web/CSS/widows
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5171
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5171
 
-***
+---
 
 ### width?
 
@@ -12097,9 +12097,9 @@ https://developer.mozilla.org/docs/Web/CSS/width
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5185
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5185
 
-***
+---
 
 ### willChange?
 
@@ -12125,9 +12125,9 @@ https://developer.mozilla.org/docs/Web/CSS/will-change
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5199
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5199
 
-***
+---
 
 ### wordBreak?
 
@@ -12153,9 +12153,9 @@ https://developer.mozilla.org/docs/Web/CSS/word-break
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5213
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5213
 
-***
+---
 
 ### wordSpacing?
 
@@ -12181,9 +12181,9 @@ https://developer.mozilla.org/docs/Web/CSS/word-spacing
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5227
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5227
 
-***
+---
 
 ### wordWrap?
 
@@ -12205,9 +12205,9 @@ The **`overflow-wrap`** CSS property applies to inline elements, setting whether
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5239
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5239
 
-***
+---
 
 ### writingMode?
 
@@ -12234,9 +12234,9 @@ https://developer.mozilla.org/docs/Web/CSS/writing-mode
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5254
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5254
 
-***
+---
 
 ### zIndex?
 
@@ -12262,9 +12262,9 @@ https://developer.mozilla.org/docs/Web/CSS/z-index
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5268
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5268
 
-***
+---
 
 ### zoom?
 
@@ -12290,4 +12290,4 @@ https://developer.mozilla.org/docs/Web/CSS/zoom
 
 #### Source
 
-node\_modules/.pnpm/csstype@3.1.3/node\_modules/csstype/index.d.ts:5282
+node_modules/.pnpm/csstype@3.1.3/node_modules/csstype/index.d.ts:5282
